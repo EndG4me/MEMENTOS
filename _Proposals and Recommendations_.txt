@@ -11,6 +11,7 @@ MEMENTO_MOSAIC_OF_THEODORA: Lavra
 MEMENTO_EL_ESCORIAL_RELIQUARIES: Lavra
 MEMENTO_GOLD_OF_MANSA_MUSA: Lavra
 MEMENTO_HUNMINJEONGEUM: Observatory
+MEMENTO_TREATY_OF_JAFFA_1192: Lavra
 MEMENTO_LETTERS_TO_MANUEL_I: Neighborhood
 MEMENTO_QUEEN_VICTORIA_S_JOURNALS: Hansa/Oppidum, Royal Navy Dockyard/Cothon
 MEMENTO_WU_ZETIAN_UNINSCRIBED_STELE: Seowon/Observatory, Acropolis, Suguba, Hansa/Oppidum, Lavra, Harbor/Royal Navy Dockyard/Cothon (+1 Gold as well)
@@ -23,7 +24,6 @@ ________
 
 MEMENTO_CELTIC_LONGSWORD: +3 Combat Strength for melee units.
 MEMENTO_LETTERS_TO_AZZOLINO: +1 Writer, Artist, Musician for Government Plaza; +1 additional Writer, Artist, Musician for Tier 1 buildings; +2 additional Writers, Artists, Musicians for Tier 2 and 3 buildings.
-MEMENTO_EENZAAM_MAAR_NIET_ALLEEN: +3 Combat Strength if within an empire district; +2 Combat Strength if within 2 tiles of Broadcast Centers. Broadcast Centers provide +2 Production.
 
 ____________________________________________
 
