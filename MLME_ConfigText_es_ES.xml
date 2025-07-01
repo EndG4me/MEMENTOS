@@ -1,0 +1,1818 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- MLME_ConfigText_es_ES -->
+<!-- Traductor: xXiKillYouXx -->
+<GameData>
+	<LocalizedText>
+
+		
+		
+		<Replace Tag="LOC_GAMEMODE_ML_MEMENTOS_NAME" Language="es_ES">
+			<Text>Modo Recuerdos</Text>
+		</Replace>
+		<Replace Tag="LOC_GAMEMODE_ML_MEMENTOS_OVERVIEW" Language="es_ES">
+			<Text>En los ajustes del juego, el jugador puede activar el Modo Recuerdos para tener una experiencia completamente nueva con Recuerdos para cada civilizacion. Este modo de juego está inspirado en la mecánica de recuerdos de Sid Meier's Civilization VII.</Text>
+		</Replace>
+		<Replace Tag="LOC_GAMEMODE_ML_MEMENTOS_DETAILS_1" Language="es_ES">
+			<Text>En este modo de juego, cada líder está asociado con un Recuerdo único, que se puede ver en la pantalla de selección de líder al comenzar una partida.</Text>
+		</Replace>
+		<Replace Tag="LOC_GAMEMODE_ML_MEMENTOS_DETAILS_2" Language="es_ES">
+			<Text>En la [COLOR_FLOAT_SCIENCE]Configuración Avanzada[ENDCOLOR] antes de comenzar una partida, el jugador puede elegir un Recuerdo (se puede elegir un Recuerdo no asociado a ese líder). El Recuerdo se activa al entrar al juego y se puede ver en la interfaz de usuario en la esquina superior izquierda.</Text>
+		</Replace>
+		<Replace Tag="LOC_GAMEMODE_ML_MEMENTOS_DETAILS_3" Language="es_ES">
+			<Text>Cuando el juego entra en una nueva Era, el jugador gana una carga para cambiar su Recuerdo (esta carga puede acumularse). Después de que el juego entre en la Era Medieval, el jugador puede equipar 2 Recuerdos, aumentando a 3 después de entrar en la Era Industrial.</Text>
+		</Replace>
+		<Replace Tag="LOC_GAMEMODE_ML_MEMENTOS_DESCRIPTION" Language="es_ES">
+			<Text>{LOC_GAMEMODE_ML_MEMENTOS_OVERVIEW}</Text>
+		</Replace>
+
+		
+		
+		<Replace Tag="LOC_PAR_ML_MEMENTOS_NAME" Language="es_ES">
+			<Text>Elige un Recuerdo</Text>
+		</Replace>
+		<Replace Tag="LOC_PAR_ML_MEMENTOS_DESCRIPTION" Language="es_ES">
+			<Text>Elige un Recuerdo para equipar, el cual estará activo al comenzar la partida.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_EMPTY_NAME" Language="es_ES">
+			<Text>No</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_EMPTY_DESCRIPTION" Language="es_ES">
+			<Text>No equipar Recuerdo.</Text>
+		</Replace>
+
+		
+		
+		<Replace Tag="LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION" Language="es_ES">
+			<Text>[COLOR_FLOAT_SCIENCE]Introducción: [ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT" Language="es_ES">
+			<Text>[COLOR_FLOAT_SCIENCE]Bonificación: [ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="LOC_ML_MEMENTO_SPACE" Language="es_ES">
+			<Text>------------------</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_TROUBADOUR_POETRY_MANUSCRIPTS_NAME" Language="es_ES">
+			<Text>Manuscritos de Poesía Trovadoresca</Text>
+		</Replace>
+		<!--agregue esta frase porque no me gusto lo simple y repetitiva de la traduccion china-inglesa-->
+		<Replace Tag="LOC_MEMENTO_TROUBADOUR_POETRY_MANUSCRIPTS_DESCRIPTION" Language="es_ES">
+			<Text>"No hay alegría más allá del amor; y quien ama bien está predestinado a la felicidad."</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_TROUBADOUR_POETRY_MANUSCRIPTS_EFFECT" Language="es_ES">
+			<Text>Los distritos de Teatro otorgan +1 punto de Gran Escritor [ICON_GreatWriter] y +1 punto de Gran Músico [ICON_GreatMusician].</Text><!--agreguar acropolis-->
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_TROUBADOUR_POETRY_MANUSCRIPTS_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_TROUBADOUR_POETRY_MANUSCRIPTS_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_TROUBADOUR_POETRY_MANUSCRIPTS_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TROUBADOUR_POETRY_MANUSCRIPTS_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_TROUBADOUR_POETRY_MANUSCRIPTS_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TROUBADOUR_POETRY_MANUSCRIPTS_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_TROUBADOUR_POETRY_MANUSCRIPTS_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TROUBADOUR_POETRY_MANUSCRIPTS_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Leonor de Aquitania fue una reina medieval de Francia e Inglaterra, conocida por su mecenazgo de las artes y la cultura. Fue una importante patrocinadora de la lírica trovadoresca del sur de Francia. Muchos de los manuscritos poéticos medievales (como los del famoso trovador Bernart de Ventadorn) reflejan el ambiente literario de su época y pueden haber sido influenciados directamente por su corte.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TROUBADOUR_POETRY_MANUSCRIPTS_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<!--Esta parte me fue muy dificil traducir por su notación poetica-->
+			<Text>Bernat de Ventadorn, que había seguido a Leonor en su viaje hacia Inglaterra gobernada por la Casa de Plantagenet, la describió como "elegante, encantadora y la personificación de la belleza", exaltando sus "encantadores ojos y su noble semblante" y declarandola "Digna de coronar la grandeza de cualquier rey". Se rumorea que Leonor fue la musa de la poesía de Bernat de Ventadorn (aunque sin pruebas verificadas).</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_TEMPLE_RELIEFS_OF_MEROE_NAME" Language="es_ES">
+			<Text>Relieves de las Piramides de Meroë</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_TEMPLE_RELIEFS_OF_MEROE_DESCRIPTION" Language="es_ES">
+			<Text>La elocuente declaración de un poder forjado en la tierra y sancionado por los cielos.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_TEMPLE_RELIEFS_OF_MEROE_EFFECT" Language="es_ES">
+			<Text>Los distritos de Lugar Sagrado otorgan +2 puntos de Influencia por turno para conseguir enviados [ICON_Envoy], +1 puntos de Influencia adicionales si están adyacentes a una Pirámide Nubia.</Text><!--podria ser +1 y +1 ya que estaria muy roto tener esa capacidad al inicio--><!-- agregar laura -->
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_TEMPLE_RELIEFS_OF_MEROE_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_TEMPLE_RELIEFS_OF_MEROE_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_TEMPLE_RELIEFS_OF_MEROE_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TEMPLE_RELIEFS_OF_MEROE_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_TEMPLE_RELIEFS_OF_MEROE_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TEMPLE_RELIEFS_OF_MEROE_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_TEMPLE_RELIEFS_OF_MEROE_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TEMPLE_RELIEFS_OF_MEROE_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Amanitore fue una influyente reina del Reino Kush que construyó numerosos templos y pirámides junto al rey Natakamani, especialmente en Meroë. Suele aparecer en relieves como una figura femenina poderosa realizando rituales religiosos con el rey, reflejando su autoridad política y religiosa. Estos relieves se conservan en yacimientos arqueológicos de Sudán.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_CELTIC_LONGSWORD_NAME" Language="es_ES">
+			<Text>Espada larga Celta</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_CELTIC_LONGSWORD_DESCRIPTION" Language="es_ES">
+			<Text>Un símbolo de valentía y honor.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_CELTIC_LONGSWORD_EFFECT" Language="es_ES">
+			<Text>Los Soldados con espadas y Hombres de armas reciben +5 de Fuerza de Combate [ICON_Strength].</Text><!--talvez +3/+2 a las unidades cuerpo a cuerpo-->
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_CELTIC_LONGSWORD_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_CELTIC_LONGSWORD_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_CELTIC_LONGSWORD_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_CELTIC_LONGSWORD_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_CELTIC_LONGSWORD_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_CELTIC_LONGSWORD_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_CELTIC_LONGSWORD_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_CELTIC_LONGSWORD_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>La espada larga celta fue el arma característica de los guerreros celtas durante la Edad de Hierro en Europa (siglo VIII a.C. al I d.C.), famosa por su excelente forja y diseño único. Con una longitud de 70 a 100 cm y fabricada en hierro o bronce, su hoja era ancha en el centro y estrecha en los extremos para aumentar su capacidad de corte, mientras que parte de la hoja tenia una acanaladura (o vaciado) para reducir su peso. La empuñadura solía estar decorada con espirales o representaciones de animales, reflejando el estilo artístico celta.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_CELTIC_LONGSWORD_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>No solo era un arma de guerra, apta para cortar y apuñalar, sino también un símbolo de nobleza, a menudo hallado como objeto funerario en descubrimientos arqueológicos, como en el yacimiento de la cultura de La Tène en Suiza. Aunque fue cayendo en desuso debido a su lucha frente a la armadura pesada romana, su diseño influenció las espadas vikingas y medievales. Hoy es un ícono de la cultura celta en el cine y los videojuegos, demostrando la combinación perfecta del espíritu celta y sus representaciones artísticas.</Text>
+		</Replace>
+
+
+		<!--Esta parte no lo traducire en parte por ser latin y muy representativo de la cultura romana-->
+		<Replace Tag="LOC_MEMENTO_COMMENTARII_DE_BELLO_GALLICO_NAME" Language="es_ES">
+			<Text>"Commentarii de Bello Gallico"</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_COMMENTARII_DE_BELLO_GALLICO_DESCRIPTION" Language="es_ES">
+			<Text>"Veni, vidi, vici."</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_COMMENTARII_DE_BELLO_GALLICO_EFFECT" Language="es_ES">
+			<Text>+5 de Fuerza de combate [ICON_Strength] contra Bárbaros.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_COMMENTARII_DE_BELLO_GALLICO_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_COMMENTARII_DE_BELLO_GALLICO_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_COMMENTARII_DE_BELLO_GALLICO_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_COMMENTARII_DE_BELLO_GALLICO_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_COMMENTARII_DE_BELLO_GALLICO_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_COMMENTARII_DE_BELLO_GALLICO_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_COMMENTARII_DE_BELLO_GALLICO_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_COMMENTARII_DE_BELLO_GALLICO_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Los "Comentarios sobre la guerra de las Galias" fue una obra de Julio César que relata las campañas galicas (58 al 50 a.C.).Esta obra es la principal fuente histórica sobre estas guerras, aunque su objetividad es discutida. La obra es también muy importante desde un punto de vista literario. Tuvo un impacto amplio y de gran alcance, y sigue siendo un clásico de la literatura latina.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_JULIAN_CALENDAR_NAME" Language="es_ES">
+			<Text>Calendario Juliano</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_JULIAN_CALENDAR_DESCRIPTION" Language="es_ES">
+			<Text>El predecesor del calendario moderno.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_JULIAN_CALENDAR_EFFECT" Language="es_ES">
+			<Text>Las Granjas reciben +1 [ICON_Production] Producción; +1 adicional si están adyacentes a un distrito de Acueducto o Termas.</Text><!--puede ser +1 de alimentos si esta cerca a un aqueducto-->
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_JULIAN_CALENDAR_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_JULIAN_CALENDAR_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_JULIAN_CALENDAR_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_JULIAN_CALENDAR_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_JULIAN_CALENDAR_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_JULIAN_CALENDAR_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_JULIAN_CALENDAR_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_JULIAN_CALENDAR_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Julio César no fue solo un extraordinario comandante militar y estadista en la antigua Roma, sino que también influyó profundamente en la forma en que medimos el tiempo como reformador del calendario. En el 46 a.C., con la ayuda del astrónomo egipcio Sosígenes, formuló el Calendario Juliano, que reemplazó al desorganizado y anticuado calendario romano. Este calendario estableció el año en 365 días, con un día bisiesto adicional (29 de febrero) cada cuatro años, llevando la duración promedio del año a 365.25 días. Por primera vez, se armonizaba científicamente la desviación del calendario con el año solar. Para enfatizar su autoridad personal, Julio César también nombró el séptimo mes como "Julio". Más tarde, el octavo mes sería cambiado a "Agosto" por Augustus.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_JULIAN_CALENDAR_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Aunque el Calendario Juliano fue acumulando errores gradualmente debido a esos 11 minutos extra al año (para el siglo XVI ya tenía un desfase de 10 días), su estructura central sentó las bases para el Calendario Gregoriano en 1582. Este último redujo el error a tan solo 1 día cada 3226 años gracias a la regla de "no añadir día extra en los años divisibles por 100, pero sí en los divisibles por 400". El legado del Calendario Juliano sigue vivo hasta el día de hoy en el cálculo de las festividades ortodoxas y en el sistema de "Día Juliano" utilizado en la astronomía.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_MENOLOGION_OF_BASIL_II_NAME" Language="es_ES">
+			<Text>Menologio de Basilio II</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_MENOLOGION_OF_BASIL_II_DESCRIPTION" Language="es_ES">
+			<Text>Un piadoso protector de la Iglesia Ortodoxa Oriental.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_MENOLOGION_OF_BASIL_II_EFFECT" Language="es_ES">
+			<Text>Las ciudades con un Santuario obtienen +30% de Producción [ICON_Production] hacia unidades de caballería ligera y pesada.</Text><!--25%-->
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_MENOLOGION_OF_BASIL_II_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_MENOLOGION_OF_BASIL_II_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_MENOLOGION_OF_BASIL_II_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_MENOLOGION_OF_BASIL_II_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_MENOLOGION_OF_BASIL_II_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_MENOLOGION_OF_BASIL_II_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_MENOLOGION_OF_BASIL_II_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_MENOLOGION_OF_BASIL_II_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>El Menologio de Basilio II (alrededor del 1000 d.C.) es un manuscrito ilustrado creado para el emperador bizantino Basilio II, unos de los monarcas más prominentes del Imperio Bizantino. A pesar de su nombre, el libro es en realidad es un Sinaxario, un libro litúrgico que registra y conmemora a los santos y las festividades cristianas. Este valioso volumen, que actualmente se encuentra en la Biblioteca Apostólica Vaticana (Ms. Vat. Gr. 1613), contiene más de 430 dibujos minuciosamente detallados que ilustran las vidas y los martirios de los santos.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_MENOLOGION_OF_BASIL_II_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>A diferencia de la mayoría de los calendarios, el Menologio está ricamente ilustrado, con un texto breve y una miniatura para el aniversario de cada santo. Estas miniaturas van más allá de una función puramente litúrgica e implican una intención política de glorificar a Basilio II. Las escenas que representan a santos y ángeles a menudo los mostraban como guerreros, trazando paralelismos simbólicos entre las batallas espirituales de los santos y la defensa física que el emperador hacía del Imperio Bizantino. El manuscrito refuerza el papel de Basilio II como un piadoso protector de la fe ortodoxa frente a las amenazas, especialmente del Imperio Búlgaro, al que el manuscrito describe vívidamente como una amenaza para la Bizancio Cristiana.</Text>
+		</Replace>
+
+
+		<!--No traducire titulos de obras-->
+		<Replace Tag="LOC_MEMENTO_MOKO_SHURAI_EKOTOBA_NAME" Language="es_ES">
+			<Text>"Mōko Shūrai Ekotoba"</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_MOKO_SHURAI_EKOTOBA_DESCRIPTION" Language="es_ES">
+			<Text>El viento divino "Kamikaze".</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_MOKO_SHURAI_EKOTOBA_EFFECT" Language="es_ES">
+			<Text>Las ciudades costeras reciben +20% de Producción [ICON_Production] hacia unidades militares.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_MOKO_SHURAI_EKOTOBA_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_MOKO_SHURAI_EKOTOBA_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_MOKO_SHURAI_EKOTOBA_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_MOKO_SHURAI_EKOTOBA_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_MOKO_SHURAI_EKOTOBA_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_MOKO_SHURAI_EKOTOBA_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_MOKO_SHURAI_EKOTOBA_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_MOKO_SHURAI_EKOTOBA_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Mōko Shūrai Ekotoba (lit. "Relato Ilustrado de las Invasiones Mongolas") es un pergamino ilustrado creado a finales del período Kamakura (aproximadamente desde finales del siglo XIII hasta principios del siglo XIV) en Japón, que registra de forma gráfica los principales eventos históricos de las dos invasiones de Japón por la dinastía Yuan (mongoles) en la Batalla de Bun'ei en 1274 y la Batalla de Kōan en 1281. Es un material histórico importante para el estudio de la Guerra Yuan-Japonesa y el régimen Hojo. Los pergaminos atribuyen la destrucción de la flota Yuan por un tifón a la bendición del "Kamikaze" (lit. "viento divino"), una narrativa que ha influido profundamente en la identidad nacional de las generaciones posteriores de japoneses.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_MOKO_SHURAI_EKOTOBA_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Hojo Tokimune, aunque no está directamente representado en el Mōko Shūrai Ekotoba, ante su negativa a pagar tributo a la dinastía Yuan y su defensa contra la invasión mongola fue muy bien recibido en épocas posteriores. En el período Meiji fue retratado como un símbolo de la defensa de la independencia de Japón y fue deificado.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_FOUNDING_DECREE_OF_SAINT_PETERSBURG_NAME" Language="es_ES">
+			<Text>Decreto de la fundación de San Petersburgo</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_FOUNDING_DECREE_OF_SAINT_PETERSBURG_DESCRIPTION" Language="es_ES">
+			<Text>"Aquí abriremos una ventana a Europa."</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_FOUNDING_DECREE_OF_SAINT_PETERSBURG_EFFECT" Language="es_ES">
+			<Text>Las ciudades recién fundadas comienzan con +1 de Población [ICON_Citizen].</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_FOUNDING_DECREE_OF_SAINT_PETERSBURG_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_FOUNDING_DECREE_OF_SAINT_PETERSBURG_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_FOUNDING_DECREE_OF_SAINT_PETERSBURG_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_FOUNDING_DECREE_OF_SAINT_PETERSBURG_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_FOUNDING_DECREE_OF_SAINT_PETERSBURG_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_FOUNDING_DECREE_OF_SAINT_PETERSBURG_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_FOUNDING_DECREE_OF_SAINT_PETERSBURG_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_FOUNDING_DECREE_OF_SAINT_PETERSBURG_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>En 1703, Pedro el Grande ordenó el establecimiento de San Petersburgo a orillas del Nevá como una "ventana a Europa", con el fin de impulsar la modernización y occidentalización de Rusia. Esta orden plasmó sus ambiciones para la transformación política, militar y cultural del país. Los documentos y órdenes relacionados con este acontecimiento se pueden encontrar en el Archivo Estatal de la Federación de Rusia.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_PERICLES_FUNERAL_ORATION_NAME" Language="es_ES">
+			<Text>Oración fúnebre de Pericles</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_PERICLES_FUNERAL_ORATION_DESCRIPTION" Language="es_ES">
+			<Text>"Si miramos a las leyes, estas otorgan igual justicia a todos en sus disputas privadas..."</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_PERICLES_FUNERAL_ORATION_EFFECT" Language="es_ES">
+			<Text>Los distritos de Teatro y Acropolis reciven +2 Cultura [ICON_Culture] adicional.</Text><!--aclarar-->
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_PERICLES_FUNERAL_ORATION_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_PERICLES_FUNERAL_ORATION_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_PERICLES_FUNERAL_ORATION_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_PERICLES_FUNERAL_ORATION_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_PERICLES_FUNERAL_ORATION_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_PERICLES_FUNERAL_ORATION_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_PERICLES_FUNERAL_ORATION_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_PERICLES_FUNERAL_ORATION_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>La Oración Fúnebre de Pericles, registrada por Tucídides en su obra "Historia de la Guerra del Peloponeso", es un discurso fúnebre de estado pronunciado por Pericles (en el 431 a.C.) en honor a los soldados caídos durante el primer año de la Guerra del Peloponeso. El discurso no solo alabó a los fallecidos, sino que también resumió de manera elocuente el espíritu de la democracia ateniense, la libertad y la responsabilidad cívica, convirtiéndose en un texto clásico en la historia de la ideología política occidental.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_TSAGAAN_SULDE_NAME" Language="es_ES">
+			<Text>Tsaagan Sulde</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_TSAGAAN_SULDE_DESCRIPTION" Language="es_ES">
+			<Text>El Estandarte del Espíritu Blanco.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_TSAGAAN_SULDE_EFFECT" Language="es_ES">
+			<Text>Unidades de caballería proporcionan +2 de Fe [ICON_Faith].</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_TSAGAAN_SULDE_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_TSAGAAN_SULDE_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_TSAGAAN_SULDE_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TSAGAAN_SULDE_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_TSAGAAN_SULDE_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TSAGAAN_SULDE_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_TSAGAAN_SULDE_EFFECT}{LOC_MEMENTO_TSAGAAN_SULDE_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TSAGAAN_SULDE_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Los Tsaagan Sulde, también conocidos como los Nueve Estandartes de Crin Blanca, son estandartes sagrados para los mongoles que datan de la época de Gengis Kan. Consisten en un estandarte principal y ocho estandartes menores. El estandarte principal está coronado por una borla de nueve mechones de crines de semental blanco y una punta de acero dorado con forma de montaña. Estos estandartes no solo sirvieron como la bandera militar espiritual del antiguo Imperio Mongol, sino que también siguen siendo un símbolo importante de la cultura moderna de Mongolia.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TSAGAAN_SULDE_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>El Festival Tsaagan Sulde, declarado por la Bandera de Uxin de la Región Autónoma de Mongolia Interior, fue aprobado por el Consejo de Estado de la República Popular China el 11 de noviembre de 2014 para ser incluido en la cuarta Lista Nacional de Patrimonio Cultural Inmaterial.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_GO_NAME" Language="es_ES">
+			<Text>Go</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_GO_DESCRIPTION" Language="es_ES">
+			<Text>"La danza de la mente".</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_GO_EFFECT" Language="es_ES">
+			<Text>Las bibliotecas proporcionan +2 puntos de Gran Escritor [ICON_GreatWriter].</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_GO_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_GO_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_GO_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_GO_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_GO_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_GO_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_GO_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_GO_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Tokugawa Ieyasu, fundador del shogunato Edo, no solo fue un estadista excepcional, sino también un importante promotor del juego de Go. En 1603, cuando Tokugawa estableció el shogunato Edo, convocó a un maestro de Go (Hon'inbō Sansa) para ser el primer Meijin de Godokoro. El "Godokoro" era un título honorífico otorgado al jugador más fuerte de Go por el shogunato Tokugawa. Sus deberes eran ser el ministro de Go, instruir al shōgun en el juego y monopolizar la emisión de certificados de Go. Tokugawa Ieyasu sentó las bases para la profesionalización del Go en Japón al establecer el Godokoro y apoyar financieramente a los jugadores.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_GO_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>En 2004, el Nihon Ki-in (Instituto Japonés de Go) estableció el Salón de la Fama del Go. Tokugawa Ieyasu fue incluido en la primera edición por su contribución a los "frecuentes intercambios de Go con daimyōs, generales y otras figuras públicas, y la promoción de la popularización del juego mediante el establecimiento de un sistema de Go, la concesión de salarios y la profesionalización del juego".</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_MOSAIC_OF_THEODORA_NAME" Language="es_ES">
+			<Text>Mosaicos de San Vitale</Text>
+		</Replace>
+		<!--Me tome una licencia para agregar una cita famosa, en vez de lo de una emperatriz influyente-->
+		<Replace Tag="LOC_MEMENTO_MOSAIC_OF_THEODORA_DESCRIPTION" Language="es_ES">
+			<Text>"¡Que nunca me vea privada de esta púrpura, y que jamás viva el día en que quienes me encuentren no me llamen Emperatriz!"</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_MOSAIC_OF_THEODORA_EFFECT" Language="es_ES">
+			<Text>Las granjas reciben +1 de Fe [ICON_Faith] al estar adyacencentes a un distrito de Lugar Sagrado.</Text><!--agregar laura-->
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_MOSAIC_OF_THEODORA_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_MOSAIC_OF_THEODORA_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_MOSAIC_OF_THEODORA_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_MOSAIC_OF_THEODORA_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_MOSAIC_OF_THEODORA_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_MOSAIC_OF_THEODORA_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_MOSAIC_OF_THEODORA_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_MOSAIC_OF_THEODORA_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Ubicado en la Basílica de San Vital en Rávena, Italia. Estos mosaicos son una de las imágenes históricas más famosas de Teodora, mostrándola como un símbolo de majestad y poder como emperatriz. Aparece vestida con atuendos lujosos, sosteniendo un recipiente de comunión y rodeada de su hijo adoptivo y amigos cercanos. Junto a este mosaico hay otro de su esposo, Justiniano I, con sus cortesanos.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_MOSAIC_OF_THEODORA_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>El uso de mosaicos para representar figuras seculares es menos común. Y esto es diferente nuevamente para Teodora y Justiniano el Grande, quienes no solo fueron emperadores, sino también patrones del cristianismo. Ambos fueron canonizados como santos por la Iglesia Ortodoxa, y su fiesta se celebra el 14 de noviembre.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_OXHIDE_NAME" Language="es_ES">
+			<Text>Piel de Buey</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_OXHIDE_DESCRIPTION" Language="es_ES">
+			<Text>Semilla de Cartago.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_OXHIDE_EFFECT" Language="es_ES">
+			<Text>Las ciudades recién fundadas obtienen 2 casillas adicionales.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_OXHIDE_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_OXHIDE_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_OXHIDE_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_OXHIDE_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_OXHIDE_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_OXHIDE_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_OXHIDE_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_OXHIDE_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Según la historia griega y romana antigua (como la "Eneida" de Virgilio y los relatos de historiadores griegos), Dido y un grupo de leales seguidores navegaron hacia el oeste a través del Mediterráneo y fundaron su ciudad en el norte de África usando una piel de buey. Esta leyenda narra cómo ella, astutamente, cortó la piel de buey en finas tiras para abarcar la mayor superficie posible, obteniendo así el terreno para establecer Cartago. Aunque esta leyenda tiene un carácter mítico, demuestra la sabiduría de Dido.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_SMILING_BUDDHA_STATUE_NAME" Language="es_ES">
+			<Text>Estatua del Buda Sonriente</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_SMILING_BUDDHA_STATUE_DESCRIPTION" Language="es_ES">
+			<Text>Su sonrisa, eco de sabiduría y misericordia sin fin.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_SMILING_BUDDHA_STATUE_EFFECT" Language="es_ES">
+			<Text>Los templos proporcionan +3 de Fe [ICON_Faith] adicional.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_SMILING_BUDDHA_STATUE_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_SMILING_BUDDHA_STATUE_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_SMILING_BUDDHA_STATUE_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_SMILING_BUDDHA_STATUE_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_SMILING_BUDDHA_STATUE_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_SMILING_BUDDHA_STATUE_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_SMILING_BUDDHA_STATUE_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_SMILING_BUDDHA_STATUE_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Ubicadas en el Bayón, en la actual ciudad de Angkor, Camboya. Las estatuas del Buda Sonriente jemerí son una de las obras de arte más icónicas del Imperio Jemer, que reflejan la esencia del arte budista durante ese período. Estas estatuas son conocidas por sus expresiones sonrientes y gentiles, que muestran la compasión, la sabiduría y la paz interior del Buda. Durante el reinado de Jayavarman VII, este hizo del budismo mahayana la religión estatal y construyó el Bayón. La leyenda dice que las estatuas del Buda Sonriente en el Bayón fueron esculpidas basándose en el propio Jayavarman VII.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_SMILING_BUDDHA_STATUE_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Las estatuas del Buda Sonriente jemerí no son solo un símbolo importante de las creencias religiosas de Camboya, sino que también han influido profundamente en el desarrollo del arte budista global y se han convertido en el legado cultural eterno de la civilización Jemer.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_NEGOTIATION_STOOL_NAME" Language="es_ES">
+			<Text>Silla de negociaciones</Text>
+		</Replace>
+		<!--otra licencia que me tome al traducir-->
+		<Replace Tag="LOC_MEMENTO_NEGOTIATION_STOOL_DESCRIPTION" Language="es_ES">
+			<Text>Ante el desaire colonial, forjó un trono de voluntad para afirmar su soberanía.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_NEGOTIATION_STOOL_EFFECT" Language="es_ES">
+			<Text>+4 puntos de Influencia por turno para conseguir enviados [ICON_Envoy], y +4 puntos de Influencia por turno adicionales después de que el juego entre en la Era Industrial.</Text><!--+2 de base seria lo mejor y +2 adicional en la era industrial-->
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_NEGOTIATION_STOOL_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_NEGOTIATION_STOOL_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_NEGOTIATION_STOOL_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_NEGOTIATION_STOOL_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_NEGOTIATION_STOOL_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_NEGOTIATION_STOOL_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_NEGOTIATION_STOOL_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_NEGOTIATION_STOOL_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Durante las negociaciones con el gobernador portugués en 1622, los portugueses deliberadamente negaron a Nzinga y a sus asistentes un asiento en el salón de negociaciones, en un intento de intimidarlos y humillarlos para que aceptaran incondicionalmente los términos ofrecidos. Entonces Nzinga Mbande ordenó a una de sus asistentes que se arrodillara para usarla como asiento y se sentó sobre su espalda, negociando con calma con el gobernador. Este espectáculo dejó sin palabras a los presentes.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_NEGOTIATION_STOOL_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Este movimiento de Nzinga Mbande demostró que era representante de un estado soberano, en igualdad de condiciones con Portugal. Ante tal adversario, los portugueses no se atrevieron a tratarla con desprecio. Este incidente, registrado en varias fuentes históricas, demuestra el estilo político resiliente e ingenioso de Nzinga Mbande y se ha convertido en un importante símbolo del poder femenino anticolonial en África.</Text>
+		</Replace>
+
+		
+		<Replace Tag="LOC_MEMENTO_EL_ESCORIAL_RELIQUARIES_NAME" Language="es_ES">
+			<Text>Relicarios de El Escorial</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_EL_ESCORIAL_RELIQUARIES_DESCRIPTION" Language="es_ES">
+			<Text>Los regalos de un rey piadoso</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_EL_ESCORIAL_RELIQUARIES_EFFECT" Language="es_ES">
+			<Text>Los distritos de Lugar Sagrado proporcionan +2 de Servicios [ICON_Amenities].</Text><!--agregar laura-->
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_EL_ESCORIAL_RELIQUARIES_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_EL_ESCORIAL_RELIQUARIES_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_EL_ESCORIAL_RELIQUARIES_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_EL_ESCORIAL_RELIQUARIES_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_EL_ESCORIAL_RELIQUARIES_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_EL_ESCORIAL_RELIQUARIES_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_EL_ESCORIAL_RELIQUARIES_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_EL_ESCORIAL_RELIQUARIES_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>El Escorial, ubicado al norte de Madrid, es un magnífico complejo de palacios, monasterios, museos y mausoleos construido por orden de Felipe II. Simboliza no solo la devoción de Felipe II al catolicismo, sino también de su poder político y religioso centralizado como "Rey Católico".</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_EL_ESCORIAL_RELIQUARIES_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Los relicarios donados por Felipe II al monasterio de El Escorial se encuentran entre las colecciones religiosas más preciadas y simbólicas del mundo católico de la Europa del siglo XVI. La colección consta de unas 7.500 reliquias, encerradas en 570 relicarios adornados con oro y joyas, que fueron creadas por los más destacados artesanos españoles e italianos con oro, plata, marfil y piedras preciosas. Eran tanto objetos religiosos como una expresión de la unión entre realeza y arte. Hasta hoy, estos objetos sagrados se conservan en El Escorial y son testigos importantes del estudio de la intersección entre religión, arte y política en España.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_TREATY_OF_CONSTANCE_NAME" Language="es_ES">
+			<Text>Tratado de Constanza</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_TREATY_OF_CONSTANCE_DESCRIPTION" Language="es_ES">
+			<Text>El equilibrio político entre el Imperio y las regiones</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_TREATY_OF_CONSTANCE_EFFECT" Language="es_ES">
+			<Text>Las Rutas Comerciales [ICON_TradeRoute] a ciudades-estado ganan +2 de Oro [ICON_Gold], +2 de Oro [ICON_Gold] adicional cuando el juego entra en la Era Mediaval.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_TREATY_OF_CONSTANCE_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_TREATY_OF_CONSTANCE_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_TREATY_OF_CONSTANCE_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TREATY_OF_CONSTANCE_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_TREATY_OF_CONSTANCE_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TREATY_OF_CONSTANCE_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_TREATY_OF_CONSTANCE_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TREATY_OF_CONSTANCE_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Este tratado de paz fue un documento importante firmado entre Federico I y la Liga Lombarda, marcando su reconocimiento de la autonomía de las ciudades italianas en sus asuntos internos a cambio de un reconocimiento nominal de su poder imperial. Fue un compromiso importante después de un largo período de conflicto con las ciudades italianas y reflejó su equilibrio entre consolidar el poder real y lidiar con las fuerzas regionales. El tratado se firmó en Constanza en 1183, estableciendo un nuevo equilibrio político entre el imperio y las localidades.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_WAX_COATED_WOODEN_TABLET_NAME" Language="es_ES">
+			<Text>Una simple tablilla de cera</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_WAX_COATED_WOODEN_TABLET_DESCRIPTION" Language="es_ES">
+			<Text>"Raspó la cera de una tablilla, escribió el mensaje en la madera, y volvió a cubrirla"</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_WAX_COATED_WOODEN_TABLET_EFFECT" Language="es_ES">
+			<Text>Las unidades terrestres que maten a una unidad de otra civilización, recibeuna cantidad de puntos de Gran Escritor [ICON_GreatWriter] equivalentes al 25% de su Fuerza de Combate [ICON_Strength] (a velocidad estándar).</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_WAX_COATED_WOODEN_TABLET_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_WAX_COATED_WOODEN_TABLET_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_WAX_COATED_WOODEN_TABLET_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_WAX_COATED_WOODEN_TABLET_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_WAX_COATED_WOODEN_TABLET_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_WAX_COATED_WOODEN_TABLET_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_WAX_COATED_WOODEN_TABLET_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_WAX_COATED_WOODEN_TABLET_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>El rey Jerjes I, en el 480 a.C., planeaba cruzar el Helesponto con un inmenso ejército, pero su plan debía mantenerse en secreto hasta el último momento. Justo antes de la invasión persa de Grecia, el exiliado Demarato envió una advertencia a Esparta para que tuvieran cuidado con los planes de guerra de Jerjes. Para que fuera seguro, talló el mensaje en un trozo de madera y lo cubrió con cera. Cuando llegó el mensaje, ni el rey ni los cinco éforos (los asesores del rey elegidos por los ciudadanos) sabían exactamente qué se suponía que decía la tabla en blanco, hasta que Gorgo lo descubrió y le dijo a Leónidas que quitara la cera de la madera.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_SAGA_OF_HARALD_HARDRADA_NAME" Language="es_ES">
+			<Text>Heimskringla</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_SAGA_OF_HARALD_HARDRADA_DESCRIPTION" Language="es_ES">
+			<Text>"Nunca nos arrodillamos en la batalla ante la tormenta de armas, ni agachamos tras nuestros escudos; así me dijo la noble dama..."</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_SAGA_OF_HARALD_HARDRADA_EFFECT" Language="es_ES">
+			<Text>+3 de Fuerza de Combate [ICON_Strength] al luchar en territorio enemigo.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_SAGA_OF_HARALD_HARDRADA_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_SAGA_OF_HARALD_HARDRADA_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_SAGA_OF_HARALD_HARDRADA_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_SAGA_OF_HARALD_HARDRADA_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_SAGA_OF_HARALD_HARDRADA_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_SAGA_OF_HARALD_HARDRADA_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_SAGA_OF_HARALD_HARDRADA_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_SAGA_OF_HARALD_HARDRADA_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Las campañas de Harald, incluyendo sus campañas militares en Bizancio, la Rus de Kiev e Inglaterra, se relata en detalle en la Heimskringla del siglo XIII, escrita por el escritor épico islandés Snorri Sturluson. Aunque es una obra escrita intangible sin formas físicas, su uso como fuente de registros históricos y narrativas épicas es el vehículo histórico más importante de la vida legendaria de Harald y se considera uno de los fundamentos auténticos de su imagen.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_CODE_OF_HAMMURABI_NAME" Language="es_ES">
+			<Text>Codigo de Hammurabi</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_CODE_OF_HAMMURABI_DESCRIPTION" Language="es_ES">
+			<Text>Un antiguo código de leyes.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_CODE_OF_HAMMURABI_EFFECT" Language="es_ES">
+			<Text>+1 espacio de política económica tras investigar el principio "Código de Leyes".</Text><!--esta rotisimo//mis cambios estan en las notas de texto -->
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_CODE_OF_HAMMURABI_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_CODE_OF_HAMMURABI_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_CODE_OF_HAMMURABI_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_CODE_OF_HAMMURABI_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_CODE_OF_HAMMURABI_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_CODE_OF_HAMMURABI_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_CODE_OF_HAMMURABI_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_CODE_OF_HAMMURABI_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Esta estela de basalto negro mide aproximadamente 2,25 m de altura y está inscrita con 282 textos legales, lo que la convierte en el primer código de leyes, escrito relativamente completo, que se conoce. El relieve superior representa a Hammurabi recibiendo un cetro y un anillo de Shamash, el dios del sol y la justicia, simbolizando el derecho divino de los reyes. Debajo del bajorrelieve está la inscripción del Código, que está grabada alrededor del monumento y consta de 3.500 líneas. El código se compone de tres partes: el preámbulo, el texto principal y la conclusión. El preámbulo y la conclusión representan aproximadamente una quinta parte de la longitud total del código, que es rico en lenguaje y retórica, lleno de palabras que deifican y glorifican a Hammurabi, y es un himno de alabanza al rey. El cuerpo del texto incluye 282 leyes, con disposiciones detalladas sobre sistemas penales, civiles, comerciales, matrimoniales, herencia, juicios y otros.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_CODE_OF_HAMMURABI_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Este artefacto, que ahora se encuentra en el Louvre de París, es el símbolo más directo de los logros del gobierno de Hammurabi y un hito importante en la antigua civilización del estado de derecho.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_ELEPHANT_BORNE_THRONE_NAME" Language="es_ES">
+			<Text>xiàng yú</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_ELEPHANT_BORNE_THRONE_DESCRIPTION" Language="es_ES">
+			<Text>Bestias magestuosas del sur de Asia</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_ELEPHANT_BORNE_THRONE_EFFECT" Language="es_ES">
+			<Text>Desbloquea el Voi Chiến y el Domrey si tienes el recurso de lujo Marfil [ICON_RESOURCE_IVORY].Las casillas con el recurso de lujo Marfil [ICON_RESOURCE_IVORY] proporciona +2 Cultura [ICON_Culture].</Text><!---->
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_ELEPHANT_BORNE_THRONE_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_ELEPHANT_BORNE_THRONE_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_ELEPHANT_BORNE_THRONE_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_ELEPHANT_BORNE_THRONE_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_ELEPHANT_BORNE_THRONE_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_ELEPHANT_BORNE_THRONE_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_ELEPHANT_BORNE_THRONE_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_ELEPHANT_BORNE_THRONE_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>El amor de Kublai por los elefantes superaba al de otros emperadores chinos históricos. Existía un sistema de "tributo de elefantes" y el "palanquín imperial" era un paisaje único del palacio. Según el "Rapsodia de Khanbaliq" de Huang Wenzhong de la dinastía Yuan: "El Emperador no viajaba en carruajes ordinarios, sino en carruajes de elefante los días lluviosos y a caballo los soleados". Marco Polo vio a Kublai salir del palacio en un palanquín con cuatro elefantes, seguido por decenas de miles. Marco Polo afirmó que el entretenimiento de Kublai Khan no tenía igual.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_ELEPHANT_BORNE_THRONE_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Según registros como la Historia de Yuan, Kublai Kan usaba elefantes para carruajes o exhibiciones en ceremonias cortesanas, con embajadores extranjeros y festivales importantes para mostrar la vastedad de su dominio y la majestuosidad del imperio. A veces los elefantes participaban en transporte, ceremonias o como símbolo del "imperio de todas las naciones". La dinastía Yuan de Kublai abarcaba estepas, zonas agrícolas y tropicales. El elefante se convirtió en un símbolo visual de su éxito uniendo norte y sur, y de su multiculturalismo.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_EPIC_OF_GILGAMESH_NAME" Language="es_ES">
+			<Text>Epopeya de Gilgamesh</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_EPIC_OF_GILGAMESH_DESCRIPTION" Language="es_ES">
+			<Text>La leyenda primordial de héroes.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_EPIC_OF_GILGAMESH_EFFECT" Language="es_ES">
+			<Text>Los Monumentos y los Obeliscos al Antiguo Dios proporcionan +1 punto de Gran Escritor [ICON_GreatWriter]. +100% Producción [ICON_Production] hacia el proyecto Cuentos Heroicos.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_EPIC_OF_GILGAMESH_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_EPIC_OF_GILGAMESH_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_EPIC_OF_GILGAMESH_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_EPIC_OF_GILGAMESH_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_EPIC_OF_GILGAMESH_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_EPIC_OF_GILGAMESH_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_EPIC_OF_GILGAMESH_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_EPIC_OF_GILGAMESH_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>La Epopeya de Gilgamesh es la epopeya heroica más antigua conocida en el mundo, que abarca las aventuras heroicas y la búsqueda de la inmortalidad de Gilgamesh, Rey de Uruk, y su amigo Enkidu. Existen diferentes fuentes y versiones de esta historia (que abarcan más de 2000 años), cada una de las cuales está incompleta. La versión más famosa fue desenterrada en el siglo XIX en el sitio de la Biblioteca Real de Asurbanipal en Nínive, y fue inscrita en 12 tablillas de arcilla cuneiformes acadias. Estas tablillas de arcilla son evidencia tangible de que la leyenda de Gilgamesh ha sobrevivido a lo largo de la historia, además algunos expertos afirman que la Epopeya de Gilgamesh influyó en las epopeyas homéricas y la Biblia.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_CYRUS_CYLINDER_NAME" Language="es_ES">
+			<Text>El Cilindro de Ciro</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_CYRUS_CYLINDER_DESCRIPTION" Language="es_ES">
+			<Text>Uno de los artefactos más influyentes de Oriente Medio.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_CYRUS_CYLINDER_EFFECT" Language="es_ES">
+			<Text>+1 Fe [ICON_Faith] por cada 1 Población [ICON_Citizen].</Text><!--puede ser por cada 2 de poblacion-->
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_CYRUS_CYLINDER_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_CYRUS_CYLINDER_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_CYRUS_CYLINDER_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_CYRUS_CYLINDER_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_CYRUS_CYLINDER_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_CYRUS_CYLINDER_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_CYRUS_CYLINDER_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_CYRUS_CYLINDER_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>El Cilindro de Ciro es un cilindro de arcilla hecho en el siglo VI a.C. con inscripciones cuneiformes en acadio, que registra la proclamación de Ciro de un decreto que protege la libertad de religión y repatria a los pueblos cautivos después de su conquista de Babilonia. La columna fue excavada en 1879 en el sitio de la Biblioteca Asiria de Barnabas en Nínive y ahora se encuentra en el Museo Británico.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_CYRUS_CYLINDER_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Algunos afirmaron que el registro de las columnas vilificaba intencionalmente al último rey babilonio para alabar a Ciro y mostrar la legitimidad de su gobierno. Otros creen que es una de las primeras declaraciones de derechos humanos del mundo. De cualquier manera, es uno de los artefactos más importantes e influyentes de Oriente Medio. Hasta el día de hoy, sigue ejerciendo una gran influencia en la política del mundo moderno, especialmente en Oriente Medio.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_BLACK_CLOTH_NAME" Language="es_ES">
+			<Text>Vestimenta de luto</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_BLACK_CLOTH_DESCRIPTION" Language="es_ES">
+			<Text>De duelo por su esposo fallecido.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_BLACK_CLOTH_EFFECT" Language="es_ES">
+			<Text>+50% Producción [ICON_Production] para Espías.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_BLACK_CLOTH_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_BLACK_CLOTH_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_BLACK_CLOTH_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_BLACK_CLOTH_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_BLACK_CLOTH_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_BLACK_CLOTH_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_BLACK_CLOTH_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_BLACK_CLOTH_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>El hábito de toda la vida de Catalina de Médici de vestir de negro era tan icónico en la corte francesa que se hizo conocida como "La Viuda Negra". El hábito comenzó en 1559, cuando su esposo, el rey Enrique II de Francia, fue apuñalado accidentalmente hasta la muerte durante un combate de justas en una boda, y Catalina comenzó a vestir de negro como símbolo de luto y continuó haciéndolo por el resto de su vida. En la tradición real europea de la época, era parte de la etiqueta que las viudas vistieran ropas de luto negras, pero la mayoría duraba un año más o menos antes de quitárselas, mientras que la elección de Catalina de vestir de negro permanentemente reflejaba su profundo luto por la muerte de su esposo y se convirtió en parte de su imagen política. No solo el vestido negro expresaba su dolor, sino que también reforzaba invariablemente su aura de solemnidad, misterio e inviolabilidad en la corte.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_BLACK_CLOTH_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Además, el largo reinado de Catalina y la turbulencia de las Guerras de Religión francesas llevaron a que fuera vista como una fuerte operadora política. Su imagen negra fue demonizada aún más en el folclore y por las facciones rivales, a menudo asociada con rumores de "envenamiento", "brujería" e "intriga", creando una imagen de la "Reina Negra" que era casi gótica. Esta imagen, que fue inventada tanto por la necesidad política pragmática como ampliamente exagerada en la literatura y el teatro posteriores, llevó a Catalina a convertirse en una de las reinas más legendarias de la historia europea.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_LETTERS_TO_AZZOLINO_NAME" Language="es_ES">
+			<Text>Carta a Azzolino</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_LETTERS_TO_AZZOLINO_DESCRIPTION" Language="es_ES">
+			<Text>Una carta a un amigo intimo.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_LETTERS_TO_AZZOLINO_EFFECT" Language="es_ES">
+			<Text>La Plaza del Gobierno y sus edificios proporcionan +2 puntos de Gran Escritor [ICON_GreatWriter], puntos de Gran Artista [ICON_GreatArtist] y puntos de Gran Músico [ICON_GreatMusician].</Text><!--sin musico//o 1 de artista y 1 de musico// mas 1 para todo para el distrito y edificio lvl 1 y +2 pra edificio lvl 2 y lvl 3 -->
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_LETTERS_TO_AZZOLINO_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_LETTERS_TO_AZZOLINO_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_LETTERS_TO_AZZOLINO_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_LETTERS_TO_AZZOLINO_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_LETTERS_TO_AZZOLINO_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_LETTERS_TO_AZZOLINO_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_LETTERS_TO_AZZOLINO_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_LETTERS_TO_AZZOLINO_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Azzolino era el amigo cercano de Cristina y su representante en la Iglesia Católica. Cristina y Azzolino eran tan cercanos que el Papa le había pedido que acortara sus visitas a su palacio, pero siguieron siendo amigos de por vida. En una carta a Azzolino fechada el 26 de enero de 1676, Cristina escribió en francés que nunca ofendería a Dios ni le daría a Azzolino motivos para estar enojado, pero que esto "no me impide amarte hasta que la muerte nos separe, y ya que la piedad te ha hecho dejar de ser mi amado, ya no te haré mi sirviente, porque viviré y moriré como tu esclava". Su respuesta es aún más conservadora debido a su compromiso de permanecer célibe. Estas cartas reflejan el estilo de vida poco ortodoxo y el carácter complejo de Cristina.</Text>
+		</Replace>
+
+		
+		<Replace Tag="LOC_MEMENTO_QUEEN_S_CARPET_NAME" Language="es_ES">
+			<Text>La alfombra de la Reina</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_QUEEN_S_CARPET_DESCRIPTION" Language="es_ES">
+			<Text>Hermosa y sabia.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_QUEEN_S_CARPET_EFFECT" Language="es_ES">
+			<Text>+50% de Favor Diplomático [ICON_FAVOR] por suzeranía de de ciudades-estado y nivel de Alianza.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_QUEEN_S_CARPET_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_QUEEN_S_CARPET_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_QUEEN_S_CARPET_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_QUEEN_S_CARPET_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_QUEEN_S_CARPET_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_QUEEN_S_CARPET_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_QUEEN_S_CARPET_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_QUEEN_S_CARPET_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>En el año 48 a.C., el comandante romano Julio César, persiguió a su enemigo político Pompeyo hasta Egipto. Egipto pasaba una situación caótica y el Faraón Ptolomeo XIII, influenciado por sus consejeros y para congraciarse con Julio César,ordenó el asesinato de Pompeyo , que había venido a él buscando refugio, y ofreció su cabeza a César con la esperanza de ganar su apoyo y eliminar a su hermana, Cleopatra, que competía con él por el trono. Cleopatra sabía que estaba en peligro, y que si se mostraba, sería asesinada por las fuerzas de su hermano. Así que orquestó un encuentro audaz y dramático. Hizo que sus subordinados se disfrazaran de mercaderes mientras ella se escondía al rededor de una enorme alfombra, manta o sábanas según algunos historiadores, y se presentó a César como un regalo. A medida que la alfombra se desplegaba lentamente ante César, Cleopatra emergió con gracia de ella. Con su belleza y su discurso elocuente, captó instantáneamente la atención de César y logró cautivar al poderoso comandante romano.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_QUEEN_S_CARPET_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>La historia fue relatada en "Vidas Paralelas", obra que fue escrita por el escritor griego Plutarco durante la época del Imperio Romano. Su descripción del primer encuentro entre Cleopatra y Julio César está llena de drama y leyenda, lo que hizo que este episodio se difundiera ampliamente y se convirtiera en un fragmento clásico, proporcionando una rica inspiración para las generaciones posteriores de creación literaria y artística, además de haber sido representada en muchas obras relacionadas.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_NINEPIN_ROCK_NAME" Language="es_ES">
+			<Text>Te Toka-Tapu-a-Kupe</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_NINEPIN_ROCK_DESCRIPTION" Language="es_ES">
+			<Text>La roca sagrada de Kupe.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_NINEPIN_ROCK_EFFECT" Language="es_ES">
+			<Text>Las ciudades con una mejora de cantera sobre Piedra [ICON_RESOURCE_STONE] reciben +15% Cultura [ICON_Culture].</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_NINEPIN_ROCK_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_NINEPIN_ROCK_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_NINEPIN_ROCK_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_NINEPIN_ROCK_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_NINEPIN_ROCK_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_NINEPIN_ROCK_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_NINEPIN_ROCK_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_NINEPIN_ROCK_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Kupe es considerado por la tradición maorí como uno de los primeros navegantes en descubrir Nueva Zelanda. La leyenda cuenta que Kupe dejó su marca en la Isla Paratütai, ubicada en la Isla Norte de Nueva Zelanda, para conmemorar su visita. Luego recitó un karakia sagrado (oración o encantamiento maorí) en Ninepin Rock contra las personas que lo perseguían, para protegerse a sí mismo. Es por esta razón que a Ninepin se le dio el nombre maorí tradicional "Te Toka-Tapu-a-Kupe", la piedra sagrada de Kupe. Kupe cantó poderosos conjuros que hicieron que las olas detrás de su canoa se elevaran tan alto que sus perseguidores se vieron obligados a refugiarse. Desde entonces, el mar agitado frente a la costa occidental se llama "Ngä Tai Whakatü ä Kupe", o el Mar Creciente de Kupe.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_KADESH_INSCRIPTIONS_NAME" Language="es_ES">
+			<Text>Inscripciones de Kadesh</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_KADESH_INSCRIPTIONS_DESCRIPTION" Language="es_ES">
+			<Text>Uno de los registros más antiguos de guerra.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_KADESH_INSCRIPTIONS_EFFECT" Language="es_ES">
+			<Text>+30% a la Producción [ICON_Production] de maravillas mientras estás en guerra con otra civilización.</Text><!--yo le pondria 10%-->
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_KADESH_INSCRIPTIONS_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_KADESH_INSCRIPTIONS_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_KADESH_INSCRIPTIONS_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_KADESH_INSCRIPTIONS_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_KADESH_INSCRIPTIONS_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_KADESH_INSCRIPTIONS_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_KADESH_INSCRIPTIONS_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_KADESH_INSCRIPTIONS_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Las Inscripciones de Kadesh son registros oficiales creados por el Faraón Ramsés II durante el período del Nuevo Reino del Antiguo Egipto para conmemorar su Batalla de Kadesh contra el Imperio Hitita en 1274 a.C. Las inscripciones, que fueron talladas o inscritas en forma de grabados o tablas en varios templos egipcios importantes, como el Templo de Luxor, el Templo de Abu Simbel y el Templo de Karnak. Incluyen una narrativa detallada de la batalla, estrategia militar, oraciones y una representación heroica personal de Ramsés II. Las Inscripciones de Kadesh se dividen en dos versiones principales: el Boletín y el Poema. El Boletín registra los eventos de manera sucinta, mientras que el Poema enfatiza el valor, la sabiduría y el poder divino del Faraón en palabras litúrgicas y celebratorias.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_KADESH_INSCRIPTIONS_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Aunque la batalla fue esencialmente un punto muerto sin un ganador, las inscripciones la retratan como una victoria gloriosa para Egipto para reforzar la autoridad del faraón y la imagen nacional. Las Inscripciones de Kadesh son uno de los relatos más antiguos y detallados conocidos de una batalla antigua en el mundo, y no solo tienen un gran valor histórico y literario, sino que también reflejan la forma en que se moldeó la realeza y las narrativas de guerra en el antiguo Egipto a través de la propaganda oficial.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_LA_ARAUCANA_NAME" Language="es_ES">
+			<Text>La Araucana</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_LA_ARAUCANA_DESCRIPTION" Language="es_ES">
+			<Text>La epopeya fundacional de la literatura hispanoamericana colonial.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_LA_ARAUCANA_EFFECT" Language="es_ES">
+			<Text>+3 de Fuerza de Combate [ICON_Strength] si luchas en el mismo continente de tu Capital [ICON_Capital].</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_LA_ARAUCANA_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_LA_ARAUCANA_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_LA_ARAUCANA_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_LA_ARAUCANA_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_LA_ARAUCANA_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_LA_ARAUCANA_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_LA_ARAUCANA_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_LA_ARAUCANA_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>El poeta español Alonso de Ercilla participó en la guerra de conquista del pueblo mapuche alrededor de 1577. Se sintió tan conmovido por el espíritu heroico e inquebrantable de su resistencia que escribió un largo poema narrativo, La Araucana, después de regresar a España. El poema está dividido en tres partes y 37 capítulos, y fue publicado en 1569, 1578 y 1589.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_LA_ARAUCANA_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>La primera parte del poeta narra sobre los guerreros españoles que levantaron sus espadas para imponer el yugo de la brutalidad al indomable pueblo mapuche. El poeta elogia el paisaje chileno, el carácter feroz y la increíble fuerza física del héroe mapuche, Caupolicán, y describe la invasión del ejército español y la batalla contra el líder militar mapuche, Lautaro, que eligió a 500 guerreros de élite para luchar contra el ejército español. La segunda parte describe varias batallas, con victorias y derrotas en ambos bandos. Después de la muerte de Lautaro, el nuevo líder militar, Caupolicán, siguió su estrategia y ganó la batalla. La tercera parte describe cómo el ejército colonial español sobornó a algunos indigenas y atacó a los mapuches para capturar a Caupolicán. Se dice que Caupolicán no muestro miedo a la muerte ante su ejecución.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_LA_ARAUCANA_CHAPTER_HISTORY_PARA_3" Language="es_ES">
+			<Text>A lo largo del poema, el comandante supremo del ejército colonial español no es menciondo en lo absoluto, para mostrar desprecio, mientras que los líderes militares del pueblo mapuche se muestran en muchos lugares como admirados y reverenciados. No falta decir que la obra fue boicoteada por las autoridades españolas de la época.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_LA_ARAUCANA_CHAPTER_HISTORY_PARA_4" Language="es_ES">
+			<Text>"La Araucana" es uno de los documentos importantes para el estudio de la historia de la resistencia mapuche, y también una obra representativa de la literatura del Renacimiento español, siendo además considerada la epopeya nacional de Chile. En el poema, basándose en el topónimo "Arauco" ("rag ko", en Mapuche), se llamó por primera vez a los indígenas que habitaban allí "araucanos" (también traducido como "Awqa" o "Aucas"), y así, este término se siguió usando y se convirtió en sinónimo de los mapuches.</Text>
+		</Replace>
+
+		
+		<Replace Tag="LOC_MEMENTO_STELA_OF_NARANJO_NAME" Language="es_ES">
+			<Text>Estela 24 de Naranjo-Sa’al</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_STELA_OF_NARANJO_DESCRIPTION" Language="es_ES">
+			<Text>Símbolo de la autoridad y el prestigio de la realeza femenina.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_STELA_OF_NARANJO_EFFECT" Language="es_ES">
+			<Text>Los recursos de Maíz [ICON_RESOURCE_MAIZE] proporcionan +1 de Producción [ICON_Production] y +1 de Ciencia [ICON_Science]. Las ciudades con una mejora de granja sobre Maíz [ICON_RESOURCE_MAIZE] reciben +1 de Servicios [ICON_Amenities].</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_STELA_OF_NARANJO_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_STELA_OF_NARANJO_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_STELA_OF_NARANJO_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_STELA_OF_NARANJO_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_STELA_OF_NARANJO_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_STELA_OF_NARANJO_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_STELA_OF_NARANJO_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_STELA_OF_NARANJO_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Señora Seis Cielo fue una importante reina de la ciudad maya de Naranjo. Su reinado y victorias militares están inscritos en varias estelas. En la Estela 24, Señora Seis Cielo asume el papel de rey guerrero, parándose sobre cautivos pisoteados de K'inichil Kab, una situación inusual para las mujeres. En particular, lleva la falda de red de un dios del maíz, otra característica poco común para las mujeres. Puede que haya tomado el nombre "Seis" debido a su asociación con el Dios del Maíz, aunque también enfatiza su asociación con la Diosa de la Luna. La combinación del simbolismo del dios del maíz y la diosa de la luna puede ser un mensaje deliberado de que el gobernante era capaz de desempeñar roles tanto masculinos como femeninos.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_STELA_OF_NARANJO_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>La Señora Seis Cielo es una gobernante femenina extremadamente rara en la cultura maya. La Estela 24 muestra su identidad y contribuciones como reina regente.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_ROYAL_SLEIGH_NAME" Language="es_ES">
+			<Text>Trineo Real</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_ROYAL_SLEIGH_DESCRIPTION" Language="es_ES">
+			<Text>CExtravagancia cortesana y estética fantástica.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_ROYAL_SLEIGH_EFFECT" Language="es_ES">
+			<Text>Los pastizales adyacentes a una Maravilla otorgan +2 de Cultura [ICONO_CULTURA].</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_ROYAL_SLEIGH_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_ROYAL_SLEIGH_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_ROYAL_SLEIGH_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_ROYAL_SLEIGH_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_ROYAL_SLEIGH_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_ROYAL_SLEIGH_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_ROYAL_SLEIGH_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_ROYAL_SLEIGH_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>El trineo real de Luis II, un símbolo destacado del lujo y la estética caprichosa de la corte bávara del siglo XIX, ahora se encuentra en el Museo de Carruajes y Trineos (Marstallmuseum) en Munich, Alemania. El trineo fue encargado por Luis II para viajes nocturnos de invierno, especialmente en las regiones alpinas nevadas que amaba, como la tierra nevada cerca del Castillo de Neuschwanstein. El trineo no solo era un vehículo, sino también una obra maestra de arte. Decorado en una mezcla de estilos barroco y rococó y pintado en azul real y dorado, su cuerpo está formado por estructuras de madera bellamente talladas adornadas con pan de oro, ángeles, coronas y el propio escudo de armas de Luis. El interior está forrado de terciopelo y armiño para aislamiento y comodidad.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_ROYAL_SLEIGH_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Lo más sorprendente es que el trineo estaba equipado con un sistema de iluminación eléctrica que era extremadamente raro en ese momento: funcionaba con baterías y fue uno de los primeros vehículos privados en Alemania en estar equipado con luces eléctricas, lo que refleja la fascinación de Ludwig por combinar la tecnología con la fantasía. Luis II era conocido como el "Rey de los Cuentos de Hadas" por su apasionado amor por el arte, la música y la arquitectura romántica. Este trineo encarna su estilo de vida, que estaba entre la realidad y la fantasía.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_BRAVE_HEART_NAME" Language="es_ES">
+			<Text>Corazón Valiente</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_BRAVE_HEART_DESCRIPTION" Language="es_ES">
+			<Text>"Cuando mi postrer día llegue, tomad mi corazón y llévadlo a la Tierra Santa, luchando contra los enemigos de Nuestro Señor."</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_BRAVE_HEART_EFFECT" Language="es_ES">
+			<Text>Las unidades no religiosas reciben +3 de Fuerza de Combate [ICON_Strength] cuando luchan contra civilizaciones que siguen otras Religiones.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_BRAVE_HEART_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_BRAVE_HEART_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_BRAVE_HEART_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_BRAVE_HEART_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_BRAVE_HEART_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_BRAVE_HEART_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_BRAVE_HEART_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_BRAVE_HEART_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>En sus últimos años, Roberto I estaba decidido a lanzar una cruzada para absolver sus pecados, estaba profundamente convencido de que había sido caprichoso por el bien de los intereses de su familia, había rechazado a los disidentes, se había aprovechado de sus aliados y había manchado sus manos con sangre en la iglesia. Sin embargo, él mismo estaba demasiado enfermo para acompañar la expedición por eso instruyó a un subordinado leal, James Douglas, para que liderara la procesión, solicitando que después de su muerte su corazón fuera removido y preservado en una caja para unirse a la cruzada.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_BRAVE_HEART_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Después de la muerte de Roberto I, Douglas cumplió fielmente su palabra, salió de Escocia a principios de la primavera de 1330 llevando alrededor de su cuello una urna de plata esmaltada, atada con una cadena, en la que se mostraba el corazón de Robert the Bruce. Douglas fue recibido a mitad de camino en Sevilla por Alfonso XI, rey de Castilla, quien encomendó a Douglas el mando de una parte de su ejército en la batalla contra los moros en Granada.En la batalla Douglas fue emboscado, sacó el corazón de la caja y lo arrojó con fuerza frente a él, exclamando: "¡Adelante, corazón valiente, te seguiré!" Murió en el campo de batalla. Este es el origen de la historia de la pelicula Corazón Valiente.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_GOLD_OF_MANSA_MUSA_NAME" Language="es_ES">
+			<Text>Oro de Mansa Musa</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_GOLD_OF_MANSA_MUSA_DESCRIPTION" Language="es_ES">
+			<Text>"No dejó ningún emir de la corte, ningún titular de un cargo real sin el regalo de una carga de oro..."</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_GOLD_OF_MANSA_MUSA_EFFECT" Language="es_ES">
+			<Text>Los distritos de Lugar Sagrado reciben +4 Oro [ICON_Gold].</Text><!-- agregar laura -->
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_GOLD_OF_MANSA_MUSA_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_GOLD_OF_MANSA_MUSA_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_GOLD_OF_MANSA_MUSA_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_GOLD_OF_MANSA_MUSA_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_GOLD_OF_MANSA_MUSA_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_GOLD_OF_MANSA_MUSA_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_GOLD_OF_MANSA_MUSA_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_GOLD_OF_MANSA_MUSA_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Mansa Musa es famoso por su peregrinación a La Meca entre 1324 y 1325. Según los historiadores árabes, su peregrinación fue una procesión asombrosamente grande de unas 60,000 personas, incluyendo funcionarios, soldados, comerciantes y esclavos, y llevó entre 12 y 18 toneladas de oro en 100 camellos y una gran cantidad de oro llevado en los hombros de los esclavos. Al pasar por El Cairo, Egipto, dio generosas limosnas de oro, lo que llevó a la devaluación del oro local e incluso provocó una inflación a largo plazo. Esta peregrinación conmocionó a todo el mundo islámico y Europa, haciendo del Imperio de Mali la legendaria "Tierra de Oro", que fue registrado en los mapas europeos (como el Atlas Catalán de 1375).</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_GOLD_OF_MANSA_MUSA_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>A su regreso, Mansa Musa promovió vigorosamente la cultura islámica y financió la Universidad de Sankore en Tombuctú, haciendo de Mali un centro de erudición y comercio en África Occidental. Su peregrinación no fue solo un acto religioso, sino también una hazaña diplomática y económica que todavía se considera uno de los capítulos más gloriosos de la historia africana, y él mismo es considerado uno de los hombres más ricos en la historia de la humanidad.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_DOUBLE_HEADED_SERPENT_NAME" Language="es_ES">
+			<Text>Maquizcoatl</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_DOUBLE_HEADED_SERPENT_DESCRIPTION" Language="es_ES">
+			<Text>"Un ofidio de carácter augural, pues su presencia infundía temor a la persona que la encontrase."</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_DOUBLE_HEADED_SERPENT_EFFECT" Language="es_ES">
+			<Text>Otorga 3 copias del recurso de lujo Turquesa [ICON_RESOURCE_TURQUOISE_MLME] que proporcionan +6 Servicios [ICON_Amenities] cada uno.</Text><!--diria que sean solo 1 de base y 2 cuando sea edad media si es cada un// sino, siendo +2 seria igual -->
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_DOUBLE_HEADED_SERPENT_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_DOUBLE_HEADED_SERPENT_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_DOUBLE_HEADED_SERPENT_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_DOUBLE_HEADED_SERPENT_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_DOUBLE_HEADED_SERPENT_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_DOUBLE_HEADED_SERPENT_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_DOUBLE_HEADED_SERPENT_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_DOUBLE_HEADED_SERPENT_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>La Serpiente de Dos Cabezas hecha de turquesa es un tesoro religioso y artístico altamente icónico, y probablemente el artefacto azteca más famoso. Tallada a partir de una base de madera e incrustada con miles de pequeñas turquesas, conchas rojas y blancas, la imagen de una serpiente con dos bocas abiertas y un patrón de enrollamiento sinuoso es visualmente impactante. Se encuentra actualmente en el Museo Británico.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_DOUBLE_HEADED_SERPENT_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>En la cultura azteca, la serpiente era un símbolo sagrado y complejo, a menudo asociado con el dios serpiente emplumado, Quetzalcóatl, representando la vida, la resurrección y el poder divino. Esta Serpiente de Dos Cabezas puede haber sido utilizada en ceremonias religiosas, y su artesanía superior refleja el alto nivel de logro de los aztecas en el arte de la marquetería y la expresión visual religiosa.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_TREATY_OF_ADDIS_ABABA_NAME" Language="es_ES">
+			<Text>Tratado de Addis Ababa</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_TREATY_OF_ADDIS_ABABA_DESCRIPTION" Language="es_ES">
+			<Text>Una victoria sobresaliente de África contra la colonización.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_TREATY_OF_ADDIS_ABABA_EFFECT" Language="es_ES">
+			<Text>+2 de Movimiento [ICON_Movement] y +5 de Fuerza de Combate [ICON_Strength] durante los próximos 10 turnos después de declarar una Guerra de Liberación.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_TREATY_OF_ADDIS_ABABA_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_TREATY_OF_ADDIS_ABABA_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_TREATY_OF_ADDIS_ABABA_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TREATY_OF_ADDIS_ABABA_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_TREATY_OF_ADDIS_ABABA_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TREATY_OF_ADDIS_ABABA_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_TREATY_OF_ADDIS_ABABA_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TREATY_OF_ADDIS_ABABA_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>En 1896, Menelik II comandó al ejército etíope para derrotar a la fuerza de invasión italiana en la Batalla de Adwa. Después de la victoria, los dos países, Italia y Etiopía, finalmente firmaron el Tratado de Addis Abeba el 26 de octubre de 1896. Este tratado abrogó el anterior Tratado de Wuchale, desigual, e Italia reconoció la integridad de la soberanía de Etiopía y ajustó la frontera entre los dos países, haciendo de Etiopía un estado soberano, extremadamente raro en África en ese momento. Esta victoria no solo consolidó el gobierno de Menelik II, sino que también se convirtió en un símbolo importante de la lucha anticolonial en África y sentó las bases del estado etíope moderno.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_SEA_SALT_NAME" Language="es_ES">
+			<Text>Satyagraha</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_SEA_SALT_DESCRIPTION" Language="es_ES">
+			<Text>La Marcha de la Sal.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_SEA_SALT_EFFECT" Language="es_ES">
+			<Text>Los casillas terrestres adyacentes a las casillas de costa proporcionan +1 de Fe [ICON_Faith], +1 de Fe [ICON_Faith] adicional si hay un Pozo Escalonado. El recurso de lujo de Sal [ICON_RESOURCE_SALT] proporciona +1 de Fe [ICON_Faith].</Text><!-- verificar si es terrestre junto a costa -->
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_SEA_SALT_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_SEA_SALT_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_SEA_SALT_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_SEA_SALT_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_SEA_SALT_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_SEA_SALT_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_SEA_SALT_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_SEA_SALT_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>En 1930, las autoridades coloniales británicas de la India promulgaron la Ley de la Sal, que monopolizaba el comercio de la sal y aumentaba drásticamente el precio y el impuesto de la sal, causando un fuerte resentimiento entre la población. Gandhi pidió que se rechazara la sal vendida por el gobierno y mostró cómo hacer sal con las propias manos. El 12 de marzo de 1930, a la edad de 61 años, Gandhi lideró a docenas de sus seguidores en una caminata de 24 días y 390 kilómetros desde el Ashram Sabarmati hasta la costa de Dandi, Gujarat. Temprano en la mañana del 6 de abril, Gandhi recogió un bloque de sal de la playa en público, rompiendo simbólicamente la Ley de la Sal del gobierno colonial.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_SEA_SALT_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Esta acción desencadenó inmediatamente una respuesta a nivel nacional, con miles de personas yendo espontáneamente al mar para hacer sal. Aunque brutalmente reprimida por las autoridades coloniales británicas, con más de 60,000 personas arrestadas y encarceladas, la Marcha de la Sal logró llamar la atención internacional sobre la causa independentista indio y asestó un duro golpe a la legitimidad del gobierno colonial británico, convirtiéndose en un punto de inflexión importante en la independencia de La india. Fue un ejemplo clásico de resistencia no violenta, que tuvo un profundo impacto en los movimientos de derechos civiles posteriores en todo el mundo.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_LETTERS_TO_MANUEL_I_NAME" Language="es_ES">
+			<Text>Cartas a Manuel I</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_LETTERS_TO_MANUEL_I_DESCRIPTION" Language="es_ES">
+			<Text>"Hay gran tráfico de esclavos, y muchos de nuestros súbditos se venden injustamente. Incluso nobles y personas libres son capturados y vendidas..."</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_LETTERS_TO_MANUEL_I_EFFECT" Language="es_ES">
+			<Text>+30% Producción [ICON_Production] hacia Mbanzas y Plazas de Teatro.</Text><!-- agregar a Barrios residenciales -->
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_LETTERS_TO_MANUEL_I_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_LETTERS_TO_MANUEL_I_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_LETTERS_TO_MANUEL_I_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_LETTERS_TO_MANUEL_I_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_LETTERS_TO_MANUEL_I_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_LETTERS_TO_MANUEL_I_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_LETTERS_TO_MANUEL_I_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_LETTERS_TO_MANUEL_I_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Mvemba Nzinga, también conocido como Afonso I, fue un monarca cristianizado importante del Reino del Kongo. Establecío correspondencia con el rey Manuel I de Portugal en varias ocasiones, más notablemente en 1526.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_LETTERS_TO_MANUEL_I_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>En esta carta de tono severo, Nzinga condena el secuestro arbitrario de súbditos congoleños por parte de comerciantes y misioneros portugueses para ser vendidos como esclavos, en violación al espíritu cristiano. Señaló que tales prácticas habían llevado a la devastación del pueblo congoleño y a la agitación social, además de socavar gravemente el desarrollo del Reino. Nzinga exigió que Portugal cesara inmediatamente las actividades de comercio de esclavos en su territorio y retirara a aquellos misioneros involucrados en el comercio de esclavos. Esta carta demuestra la resistencia temprana de los gobernantes africanos a la agresión colonial y revela los efectos devastadores del comercio de esclavos en las sociedades africanas.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_LETTERS_TO_MANUEL_I_CHAPTER_HISTORY_PARA_3" Language="es_ES">
+			<Text>Aunque las protestas de Nzinga no lograron detener la propagación del comercio de esclavos, la carta tiene un significado histórico: es el instrumento diplomático oficial más antiguo escrito por un monarca africano en oposición al comercio de esclavos. Esto reflejaría el sentido de resistencia de los gobernantes africanos en los primeros años de la expansión colonial, mientras que también demuestra el impacto del cristianismo a medida que se extendió por África.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_PEACOCK_THRONE_NAME" Language="es_ES">
+			<Text>Takht-e Tāwūs</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_PEACOCK_THRONE_DESCRIPTION" Language="es_ES">
+			<Text>Trono del Pavo Real, símbolo del poder de India y Persia.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_PEACOCK_THRONE_EFFECT" Language="es_ES">
+			<Text>Capturar una Ciudad enemiga otorga un 20% de Producción [ICON_Production] en todas las Ciudades durante 5 turnos.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_PEACOCK_THRONE_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_PEACOCK_THRONE_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_PEACOCK_THRONE_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_PEACOCK_THRONE_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_PEACOCK_THRONE_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_PEACOCK_THRONE_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_PEACOCK_THRONE_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_PEACOCK_THRONE_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>El Takht-e Tāwūs, "Trono del Pavo Real", fue construido con oro y joyas por orden del emperador Shah Jahan del Imperio mogol, y se dice que su costo fue el doble que el de la construcción del Taj Mahal. Debido a las descripciones de algunos viajeros occidentales, el Trono del Pavo Real se convirtió en un símbolo de inmensa riqueza en las misteriosas tierras orientales a ojos de los europeos, y fue objeto de todo tipo de fantasías e inspiraciones por parte de artistas europeos. En 1739, Nader Shah derrotó al ejército mogol en la Batalla de Karnal, saqueó Delhi, robó el Trono y se llevó diamantes y tesoros como el Koh-i-Noor a Persia.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_PEACOCK_THRONE_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Aunque el Trono del Pavo Real pudo haber sido desmantelado y destruido, la leyenda de su estatus como el trono más lujoso de la historia perdura además de que el término, "Trono del Pavo Real", se ha convertido en una representación metafórica del poder supremo y el lujo asociado con las monarquías históricas de India y Persia.</Text>
+		</Replace>
+
+		
+		<Replace Tag="LOC_MEMENTO_MASCAPAYCHA_NAME" Language="es_ES">
+			<Text>Mask'aypacha</Text>
+		</Replace>	
+		<Replace Tag="LOC_MEMENTO_MASCAPAYCHA_DESCRIPTION" Language="es_ES">
+			<Text>"... los sacerdotes y mayordomos tomaron de las manos del Sol la borla que ellos llaman mascapaycha,"</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_MASCAPAYCHA_EFFECT" Language="es_ES">
+			<Text>Los distritos adyacentes a Montañas reciben bonificaciones de +2 Oro [ICON_Gold] y +1 de Alimentos [ICON_Food].</Text><!-- lo cambiaria por +1 de oro y +1 de comida por cada adyecencia de montaña -->
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_MASCAPAYCHA_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_MASCAPAYCHA_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_MASCAPAYCHA_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_MASCAPAYCHA_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_MASCAPAYCHA_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_MASCAPAYCHA_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_MASCAPAYCHA_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_MASCAPAYCHA_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>La mask'aypacha era un símbolo de poder usado únicamente por el Sapa Inca, representando su posición sagrada como Rey del Cuzco y gobernante del Tawantinsuyo. Era un cordón tejido de 16 a 32 hilos de grosor de un dedo, que se envolvía cuatro o cinco veces alrededor de la cabeza con incrustaciones de hilos de oro y plumas de "corequenque",​ dándole la vuelta hacia la parte superior, agarrado al cráneo, quedando a modo de guirnalda.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_MASCAPAYCHA_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Era la encarnación física del poder político supremo del Imperio Inca. En algunas ceremonias, el Sapa Inca sostenía la Mask'aypacha en su mano mientras llevaba un casco de guerra (un casco decorado con plumas) en su cabeza para enfatizar su doble autoridad como líder militar y religioso.</Text>
+		</Replace>
+				<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_MASCAPAYCHA_CHAPTER_HISTORY_PARA_3" Language="es_ES">
+			<Text>Se usó como distintivo real a partir del año 1438 y se le atribuye la idea al inca Sinchi Roca. A partir de entonces los siguientes gobernantes adoptaron este ritual de coronación con la borla imperial. Emperadores como Huayna Cápac, Pachacútec, Túpac Yupanqui, así como Huáscar, respetaron y adoptaron esta costumbre. La tradición se interrumpió con Atahualpa que no era descendiente directo de la dinastía Hanan Cuzco. Atahualpa fue el último gobernante inca que no ostento de la mask'aypacha. Su uso continuó durante el Virreinato del Perú, identificando a la nobleza inca, en particular al Alférez Real de los Incas, durante los desfiles y procesiones de la ciudad del Cuzco. Las pinturas de la Escuela Cuzqueña también representaba al Niño Jesús vestido de Inca con este símbolo de poder en la cabeza.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_TREATY_6_NAME" Language="es_ES">
+			<Text>Tratado 6</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_TREATY_6_DESCRIPTION" Language="es_ES">
+			<Text>“Mientras brille el sol, fluya el río y crezca la hierba.”</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_TREATY_6_EFFECT" Language="es_ES">
+			<Text>+1 punto de Alianza por turno al comerciar con Aliados.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_TREATY_6_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_TREATY_6_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_TREATY_6_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TREATY_6_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_TREATY_6_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TREATY_6_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_TREATY_6_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TREATY_6_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>El Tratado 6 fue el sexto tratado numerado firmado entre la Corona Canadiense y varias Primeras Naciones entre 1871 y 1877. Es uno de los once tratados numerados firmados. En particular, el Tratado 6 fue un acuerdo firmado entre la Corona y los Cri de las Llanuras y los Bosques, los Assiniboine y otros gobiernos tribales en Fort Carlton y Fort Pitt.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TREATY_6_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Poundmaker hizo todo lo posible por luchar por los derechos de las Primeras Naciones durante las negociaciones del tratado. Después de la firmó del tratado, hizo todo lo posible por mantener la paz entre los Cri y el gobierno canadiense. Durante la Rebelión del Noroeste de 1885, la tribu de Poundmaker fue atacada por tropas canadienses y se produjo una batalla. Fue arrestado durante las negociaciones de paz, condenado por traición y encarcelado. Poco después de su liberación, Poundmaker murió de una enfermedad.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TREATY_6_CHAPTER_HISTORY_PARA_3" Language="es_ES">
+			<Text>En mayo de 2019, el Primer Ministro canadiense Justin Trudeau exoneró a Poundmaker y limpió su memoria, además de disculparse con la Nación Cri Poundmaker.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_RIO_BRANCO_LAW_NAME" Language="es_ES">
+			<Text>Ley de Rio Branco</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_RIO_BRANCO_LAW_DESCRIPTION" Language="es_ES">
+			<Text>"La libertad de nacimiento, para los hijos de las esclavas, es una medida eminentemente justa, necesaria y provechosa."</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_RIO_BRANCO_LAW_EFFECT" Language="es_ES">
+			<Text>+0.5 de Cultura [ICON_Culture] por Población [ICON_Citizen].</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_RIO_BRANCO_LAW_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_RIO_BRANCO_LAW_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_RIO_BRANCO_LAW_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_RIO_BRANCO_LAW_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_RIO_BRANCO_LAW_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_RIO_BRANCO_LAW_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_RIO_BRANCO_LAW_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_RIO_BRANCO_LAW_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>La abolición de la esclavitud había sido un tema delicado en Brasil, los esclavos eran utilizados por todas las clases, ricas y pobres. Pedro II quería abolir la esclavitud gradualmente para reducir su impacto en la economía nacional y su primera acción pública para lograrlo ocurrió en 1850, cuando amenazó con abdicar si la Asamblea General no declaraba ilegal el comercio atlántico de esclavos.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_RIO_BRANCO_LAW_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Habiendo eliminado el suministro de nuevos esclavos en el extranjero, Pedro II centró su atención, a principios de la década de 1860, en la eliminación de la fuente restante de esclavos: los hijos nacidos de estos. Se redactó una legislación por iniciativa suya, pero el conflicto con Paraguay retrasó la discusión de la propuesta en la Asamblea General. Pedro II pidió públicamente la abolición gradual de la esclavitud en su discurso de 1867. Fue duramente criticado, y su movimiento fue denunciado como "suicidio nacional". Los críticos argumentaron que "la abolición de la esclavitud era su deseo personal, no el de la nación". Pedro II ignoró conscientemente el daño político creciente causado a su imagen y a la monarquía por su apoyo a la abolición de la esclavitud.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_RIO_BRANCO_LAW_CHAPTER_HISTORY_PARA_3" Language="es_ES">
+			<Text>Eventualmente, la Ley Rio Branco (también conocida como Lei do Ventre Livre, "Ley de Libertad de Vientres") fue promulgada el 28 de septiembre de 1871, por iniciativa del Primer Ministro (también Vizconde de Rio Branco), José Maria da Silva Paranhos. Según esta ley, los hijos nacidos de mujeres esclavas eran considerados libres. Aunque menos esclavos fueron liberados como resultado de esta ley, y los niños liberados todavía tenían que servir a sus amos hasta los 21 años, fue un paso crucial hacia la abolición de la esclavitud en Brasil.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_IKLWA_NAME" Language="es_ES">
+			<Text>Iklwa</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_IKLWA_DESCRIPTION" Language="es_ES">
+			<Text>"Su nombre es una onomatopeya del sonido que hace al ser clavada en un cuerpo y retirada."</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_IKLWA_EFFECT" Language="es_ES">
+			<Text>Las unidades anticaballería reciben +5 de Fuerza de Combate [ICON_Strength].</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_IKLWA_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_IKLWA_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_IKLWA_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_IKLWA_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_IKLWA_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_IKLWA_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_IKLWA_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_IKLWA_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>En la era de Shaka, los conflictos intertribales eran principalmente por los pastizales, y las armas utilizadas habían sido lanzas ligeras conocidas como assegai. En el combate, ambos bandos estaban separados por 37 a 46 metros, lanzándose lanzas entre sí, una vez que un lado no podía resistir, se retiraba y el otro bando aprovechaba la victoria para perseguir al otro; si el lado perdedor se retiraba y dejaba caer sus armas, significaba rendición, y el lado victorioso no los perseguiría. Gracias a esta manera de luchar, las bajas en ambos lados eran pequeñas.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_IKLWA_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Shaka, por otro lado, prefería el combate cuerpo a cuerpo, usando un escudo de piel de vaca para proteger su cuerpo y una lanza para apuñalar a los enemigos, aniquilándolos físicamente. Inventó el iklwa, una lanza de mango corto y hoja ancha, para reemplazar la lanza arrojadiza tradicional. Esta lanza corta de hoja ancha y la táctica de combate cuerpo a cuerpo mostraron rápidamente su poder en la batalla. En 1810, en una batalla con la tribu Butelezi, esta táctica poco convencional tomó al enemigo por sorpresa, resultando en una derrota aplastante y una huida generalizada.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_IKLWA_CHAPTER_HISTORY_PARA_3" Language="es_ES">
+			<Text>"La valentía, el ingenio y el talento estratégico y táctico únicos de Shaka fueron profundamente apreciados por el jefe Dingiswayo. Dingiswayo no solo le recompensó con mucho ganado, sino que también lo ascendió a comandante, al mando de 100 guerreros. A partir de entonces, Shaka no solo llevó una vida próspera, sino que también se convirtió en una figura extremadamente influyente, comenzando su camino hacia el ascenso. Esta lanza Iklwa se convirtió más tarde en el arma principal de los zulúes para el combate cuerpo a cuerpo, donde también desempeñó un papel importante en la Batalla de Isandlwana contra las fuerzas británicas en 1879."</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_HEIRLOOM_SEAL_OF_THE_REALM_NAME" Language="es_ES">
+			<Text>Chuán Guó Yù Xǐ</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_HEIRLOOM_SEAL_OF_THE_REALM_DESCRIPTION" Language="es_ES">
+			<Text>"Recibe el Mandato del Cielo, y que dure en la prosperidad eterna."</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_HEIRLOOM_SEAL_OF_THE_REALM_EFFECT" Language="es_ES">
+			<Text>La Capital [ICON_Capital] recibe +50% de Producción [ICON_Production] para Constructores.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_HEIRLOOM_SEAL_OF_THE_REALM_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_HEIRLOOM_SEAL_OF_THE_REALM_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_HEIRLOOM_SEAL_OF_THE_REALM_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_HEIRLOOM_SEAL_OF_THE_REALM_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_HEIRLOOM_SEAL_OF_THE_REALM_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_HEIRLOOM_SEAL_OF_THE_REALM_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_HEIRLOOM_SEAL_OF_THE_REALM_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_HEIRLOOM_SEAL_OF_THE_REALM_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>El Sello Imperial de la Transmisión del Estado es el sello del Emperador de China. Mide cuatro pulgadas cuadradas, con un pomo en la parte superior que presenta cinco dragones entrelazados. En su cara frontal está grabado: "Shòu mìng yú tiān, jì shòu yǒng chāng" ("Recibe el Mandato del Cielo, y que dure en la prosperidad eterna"), como un símbolo de que "el poder imperial es otorgado por el Cielo y su legitimidad es ortodoxa". Se dice que fue tallado a partir del legendario jade He Shi Bi. Durante el Período de los Reinos Combatientes, Bian He, un hombre del estado de Chu, ofreció este jade He Shi Bi al rey de Chu en tres ocasiones. Este He Shi Bi fue considerado el jade más precioso bajo el cielo y después de que Qin Shi Huang unificó los seis estados, ordenó al canciller, Li Si, que tallara el He Shi Bi para convertirlo en el Sello Imperial y que grabe la inscripción en escritura de sello menor.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_HEIRLOOM_SEAL_OF_THE_REALM_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Este sello simboliza que el poder imperial proviene del Mandato del Cielo, y es la encarnación de la nueva identidad de "Huangdi (Emperador)". Desde entonces, este sello de jade se ha convertido en el tesoro más preciado por el que han luchado emperadores y reyes. Siempre se ha dicho que "quien gane el sello, ganará el mundo". El sello de jade ha pasado por varios altibajos en la historia de más de 2,000 años: su esquina se astilló cuando Wang Mang usurpó la dinastía Han, y luego se reparó con oro; desapareció en la agitación de la corte al final de la dinastía Han Oriental; y su paradero fue desconocido después de la guerra al final de la dinastía Tang. Las dinastías Song, Yuan, Ming y Qing han tenido repetidamente historias de su reaparición, pero es difícil corroborar su autenticidad.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_HEIRLOOM_SEAL_OF_THE_REALM_CHAPTER_HISTORY_PARA_3" Language="es_ES">
+			<Text>Incluso ahora, estando perdido el sello de jade, es visto como el símbolo cultural más importante de la civilización china.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_TREATY_OF_ZARAGOZA_NAME" Language="es_ES">
+			<Text>Tratado de Zaragoza</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_TREATY_OF_ZARAGOZA_DESCRIPTION" Language="es_ES">
+			<Text>"... por la cantidad de trescientos cincuenta mil ducados de oro."</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_TREATY_OF_ZARAGOZA_EFFECT" Language="es_ES">
+			<Text>Los Colonos reciben +2 de Movimiento [ICON_Movement] cuando están en un continente diferente al de la capital [ICON_Capital], o cuando están embarcados.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_TREATY_OF_ZARAGOZA_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_TREATY_OF_ZARAGOZA_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_TREATY_OF_ZARAGOZA_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TREATY_OF_ZARAGOZA_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_TREATY_OF_ZARAGOZA_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TREATY_OF_ZARAGOZA_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_TREATY_OF_ZARAGOZA_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TREATY_OF_ZARAGOZA_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>A principios del siglo XVI, España y Portugal, como las dos principales potencias marítimas, estaban en constante conflicto por las colonias de ultramar y el derecho al comercio de especias. En 1494, los dos países firmaron el Tratado de Tordesillas, que delimitó la esfera de influencia en el Océano Atlántico por el "meridiano papal", pero no definió claramente los límites de la región asiática. Con la llegada de la flota magallánica patrocinada por España a Filipinas en 1521, la lucha entre los dos países en el Pacífico se intensificó.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TREATY_OF_ZARAGOZA_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>El Tratado de Zaragoza fue un tratado de paz entre Portugal y España, firmado el 22 de abril de 1529 en la ciudad de Zaragoza por el Rey João III de Portugal y el Emperador Carlos V de la dinastía Habsburgo. El tratado resolvió la cuestión de la propiedad de las islas Molucas (Islas de las Especias), consolidó el dominio colonial de Portugal en Asia y llevó a España a cambiar el foco de su expansión a las Américas y más tarde a Filipinas.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TREATY_OF_ZARAGOZA_CHAPTER_HISTORY_PARA_3" Language="es_ES">
+			<Text>Con la unión de España y Portugal en 1580, el Tratado de Zaragoza dejó de tener efecto. Sin embargo, sigue siendo históricamente significativo como el primer acuerdo internacional en la historia que reguló la expansión colonial a través de consultas multinacionales.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_TREATY_OF_JAFFA_1192_NAME" Language="es_ES">
+			<Text>Tratado de Jaffa</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_TREATY_OF_JAFFA_1192_DESCRIPTION" Language="es_ES">
+			<Text>"El Sultán aceptó una tregua, aunque odiaba las treguas."</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_TREATY_OF_JAFFA_1192_EFFECT" Language="es_ES">
+			<Text>Las unidades militares reciben +5 de Fuerza de Combate [ICON_Strength] cuando están dentro de 6 casillas o menos de una Ciudad Santa</Text><!-- verificar -->
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_TREATY_OF_JAFFA_1192_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_TREATY_OF_JAFFA_1192_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_TREATY_OF_JAFFA_1192_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TREATY_OF_JAFFA_1192_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_TREATY_OF_JAFFA_1192_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TREATY_OF_JAFFA_1192_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_TREATY_OF_JAFFA_1192_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TREATY_OF_JAFFA_1192_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>El Tratado de Jaffa fue un armisticio firmado por Saladino y el Rey Ricardo I de Inglaterra el 2 de septiembre de 1192, puso fin a una amarga guerra de cinco años iniciado por la Batalla de Hattin en 1187 y marcó el final de la Tercera Cruzada. El tratado estipulaba que Jerusalén permanecería bajo control musulmán, pero que los peregrinos cristianos podrían viajar libremente a la Ciudad Santa; los cruzados conservarían la estrecha franja de costera del Mediterráneo desde Tiro hasta Jaffa; la ciudad de Jaffa sería administrada por cristianos y musulmanes; y ambas partes harían una tregua de tres años y ocho meses.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TREATY_OF_JAFFA_1192_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Este tratado marcó el éxito de Saladino en la defensa de la soberanía del mundo islámico sobre Jerusalén, mientras que Ricardo logró preservar el último bastión de los Estados cruzados. Aunque no se cumplió el objetivo inicial de recuperar la Ciudad Santa, el tratado estableció un mecanismo de tolerancia religiosa poco común: coexistieron el derecho de peregrinación cristiana y el dominio musulmán, convirtiéndose en un ejemplo de convivencia entre las civilizaciones cristiana e islámica en la Edad Media.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_PEONY_SEONDEOK_NAME" Language="es_ES">
+			<Text>Peonía</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_PEONY_SEONDEOK_DESCRIPTION" Language="es_ES">
+			<Text>Riqueza y Gloria.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_PEONY_SEONDEOK_EFFECT" Language="es_ES">
+			<Text>Otorga 3 copias del recurso de lujo Peonía [ICON_RESOURCE_PEONY_MLME] que proporcionan +6 Servicios [ICON_Amenities] cada uno.</Text><!--para diferenciar puse mi comentario en un texto aparte -->
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_PEONY_SEONDEOK_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_PEONY_SEONDEOK_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_PEONY_SEONDEOK_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_PEONY_SEONDEOK_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_PEONY_SEONDEOK_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_PEONY_SEONDEOK_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_PEONY_SEONDEOK_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_PEONY_SEONDEOK_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>La Reina Seondeok fue la primera monarca femenina en la historia de Silla, conocida por su sobresaliente sabiduría y refinamiento cultural. Se cuenta que el Rey Jinpyeong, padre de la Reina Seondeok, recibió del emperador de la dinastía Tang un dibujo de peonías junto con algunas de sus semillas. Ella, tras observar atentamente el dibujo, suspiró y comentó que, aunque la flor era hermosa, carecía de fragancia. El Rey Jinpyeong le preguntó el motivo, a lo que Seondeok respondió que, si la flor tuviera un aroma agradable, en el dibujo se habrían representado también abejas y mariposas. Más tarde, las semillas germinaron y las flores florecieron, y, tal como ella había dicho, las peonías en plena floración no tenían fragancia.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_PEONY_SEONDEOK_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Esta historia demuestra la extraordinaria capacidad de observación y el discernimiento de la Reina Seondeok, siendo considerada por la posteridad como un símbolo de su ingenio. La gente a menudo utiliza este relato para alabar su visión de monarca y su profundo gusto cultural. Al mismo tiempo, también existen interpretaciones que sugieren que su pesar por la "ausencia de fragancia" era una metáfora de la realidad social de la época, donde las mujeres, a pesar de su talento y virtud, a menudo eran menospreciadas, reflejando así los desafíos y los avances que ella enfrentó como monarca femenina.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_HUNMINJEONGEUM_NAME" Language="es_ES">
+			<Text>Hunminjeongeum</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_HUNMINJEONGEUM_DESCRIPTION" Language="es_ES">
+			<Text>"Los sonidos correctos para la instrucción del pueblo."</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_HUNMINJEONGEUM_EFFECT" Language="es_ES">
+			<Text>Los distritos de Campus y Seowons reciben +2 [ICON_Science] Ciencia.</Text><!-- agregar al observatorio -->
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_HUNMINJEONGEUM_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_HUNMINJEONGEUM_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_HUNMINJEONGEUM_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_HUNMINJEONGEUM_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_HUNMINJEONGEUM_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_HUNMINJEONGEUM_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_HUNMINJEONGEUM_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_HUNMINJEONGEUM_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Sejong fue un monarca que valoraba profundamente la cultura y la educación. La creación del Hunminjeongeum en 1443 revolucionó por completo el panorama cultural de la península coreana. Antes de esto, Corea poseía su propio idioma pero carecía de un sistema de escritura autóctono, utilizando principalmente caracteres chinos que resultaban inadecuados para transcribir con precisión la fonética coreana y que, además, eran de difícil dominio para la población común.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_HUNMINJEONGEUM_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>El rey Sejong convocó a eruditos para estudiar el sistema fonético para que finalmente se creé un alfabeto compuesto por 28 letras (posteriormente simplificado a 24). Este sistema de escritura, sencillo y fácil de aprender, permitía transcribir con precisión la lengua coreana. En el prólogo del Hunminjeongeum, Sejong declaró explícitamente que su propósito era 'facilitar el aprendizaje y uso por parte del pueblo'. Como uno de los pocos sistemas de escritura en el mundo cuyo creador y fecha de creación son conocidos con certeza, el Hunminjeongeum no solo encarna la filosofía de gobierno de Sejong centrada en 'poner al pueblo como fundamento', sino que además se ha convertido en símbolo cultural nacional tanto para Corea del Sur como para Corea del Norte en la era moderna.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_HUNMINJEONGEUM_CHAPTER_HISTORY_PARA_3" Language="es_ES">
+			<Text>En 1997, la UNESCO inscribió el manuscrito original del Hunminjeongeum en su programa "Memory of the World", reconociendo así su contribución excepcional al desarrollo de los sistemas lingüísticos y escriturarios de la humanidad.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_BAOBAB_CRUTCHES_NAME" Language="es_ES">
+			<Text>Bastón sagrado de Baobab</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_BAOBAB_CRUTCHES_DESCRIPTION" Language="es_ES">
+			<Text>"¡El león camina con el apoyo del árbol que toca el cielo!"</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_BAOBAB_CRUTCHES_EFFECT" Language="es_ES">
+			<Text>Las selvas tropicales, bosques y sabanas proporcionan +1 de Alimentos [ICON_Food].</Text><!-- aclarar si inluye la sabana por un mod ajeno a este -->
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_BAOBAB_CRUTCHES_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_BAOBAB_CRUTCHES_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_BAOBAB_CRUTCHES_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_BAOBAB_CRUTCHES_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_BAOBAB_CRUTCHES_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_BAOBAB_CRUTCHES_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_BAOBAB_CRUTCHES_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_BAOBAB_CRUTCHES_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Según la leyenda, Sundiata Keita en su infancia fue un niño débil e incapaz de caminar. Para ayudarlo a recuperarse, su madre convocó a un Morikè (chamán similar a un papa tribal), quien le obsequió un bastón tallado en madera de baobab. Este bastón no solo restauró su salud física, sino que se convirtió en símbolo de su renacimiento ante la adversidad y su transformación en un poderoso líder. El baobab mismo, en la cultura de África Occidental, encarna la resistencia vital y la tenacidad, reflejando el espíritu inquebrantable de Sundiata.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_BAOBAB_CRUTCHES_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Sundiata, superando sus debilidades físicas, forjó un imperio poderoso con sabiduría y valentía. Su hazaña se convirtió en el símbolo inquebrantable de la resiliencia del pueblo de África Occidental. Hoy, su Bastón de Baobab perdura como emblema de su leyenda, inspirando al mundo a perseguir la grandeza con la tenacidad de las raíces del Árbol de la Vida.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_OTTOMAN_LAWS_NAME" Language="es_ES">
+			<Text>Kanunname-i Osmani</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_OTTOMAN_LAWS_DESCRIPTION" Language="es_ES">
+			<Text>"Su Majestad el Sultán era el protector de la Şeriat y el legislador del Kanun."</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_OTTOMAN_LAWS_EFFECT" Language="es_ES">
+			<Text>Todas las ciudades +5 de Lealtad.</Text><!-- agregarle +5 adicional si hay lugar sagrado o laura -->
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_OTTOMAN_LAWS_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_OTTOMAN_LAWS_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_OTTOMAN_LAWS_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_OTTOMAN_LAWS_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_OTTOMAN_LAWS_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_OTTOMAN_LAWS_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_OTTOMAN_LAWS_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_OTTOMAN_LAWS_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Solimán I fue uno de los más grandes sultanes del Imperio Otomano. Durante su reinado, revisó y compiló códigos legales, promulgando obras como Multaqa al-abḥur ("La Confluencia de los Ríos"), Mısır Kanunnamesi ("El Código de Egipto"), Süleyman Ceza Kanunnamesi ("El Código Penal de Solimán"), Sancak Kanunnamesi ("El Código Sanjak") y otros más.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_OTTOMAN_LAWS_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Estas leyes seculares complementaban la Şeriat (ley islámica), estableciendo un sistema legal integral que garantizaba equidad y justicia en la sociedad otomana, manteniendo asi la estabilidad del imperio. Incluso hoy influyen en los sistemas judiciales de países modernos de Oriente Medio, demostrando la sabiduría de gobierno de Solimán I, quien fue honrado con el título de "El Legislador" (Kanuni) por sus contribuciones.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_THE_GEORGIAN_CHRONICLES_NAME" Language="es_ES">
+			<Text>Kartlis Cxovreba</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_THE_GEORGIAN_CHRONICLES_DESCRIPTION" Language="es_ES">
+			<Text>"Juzgad según la justicia, afirmando el bien y condenando el mal."</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_THE_GEORGIAN_CHRONICLES_EFFECT" Language="es_ES">
+			<Text>Las ciudades fundadas en colinas obtienen +15% de Fe [ICON_Faith].</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_THE_GEORGIAN_CHRONICLES_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_THE_GEORGIAN_CHRONICLES_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_THE_GEORGIAN_CHRONICLES_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_THE_GEORGIAN_CHRONICLES_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_THE_GEORGIAN_CHRONICLES_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_THE_GEORGIAN_CHRONICLES_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_THE_GEORGIAN_CHRONICLES_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_THE_GEORGIAN_CHRONICLES_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>La reina Tamara I es considerada el símbolo de la Edad de Oro de Georgia. Las Crónicas Georginas (Kartlis Cxovreba) son la principal recopilación de documentos históricos medievales georgianos, en donde "Los Hechos de la Reina Tamara" detalla su reinado y logros, incluyendo expansión territorial, promoción cultural y apoyo a la Iglesia Ortodoxa. Esta crónica es clave para entender su figura histórica. En 2009, Tamar fue canonizada por la Iglesia Ortodoxa y sigue influyendo en la identidad cultural de la región del Cáucaso.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_NAGARAKRETAGAMA_NAME" Language="es_ES">
+			<Text>Nagarakretagama</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_NAGARAKRETAGAMA_DESCRIPTION" Language="es_ES">
+			<Text>"... abdicó del trono, sucediéndola su hijo, Hayam Wuruk."</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_NAGARAKRETAGAMA_EFFECT" Language="es_ES">
+			<Text>Las casillas de costa y de lago mejoradas obtienen +2 de Fe [ICON_Faith].</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_NAGARAKRETAGAMA_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_NAGARAKRETAGAMA_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_NAGARAKRETAGAMA_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_NAGARAKRETAGAMA_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_NAGARAKRETAGAMA_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_NAGARAKRETAGAMA_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_NAGARAKRETAGAMA_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_NAGARAKRETAGAMA_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Gitarja (Tribhuwana Wijayatunggadewi) fue reina de Mayapajit, cuyos logros históricos quedaron registrados en el Nagarakretagama, escrito en el 1365. Este poema épico del cortesano Prapanca celebra el esplendor de la era de Hayam Wuruk (su hijo), pero también refleja indirectamente las innovaciones institucionales del reinado de Tribhuwana a través de descripciones del sistema administrativo, el sincretismo religioso entre el hinduismo y el budismo; y el paisaje de la capital.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_NAGARAKRETAGAMA_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Descubierto en la isla de Lombok en el 1894, el manuscrito de este documento fue inscrito por la UNESCO en su programa "Memory of the World" en 2013, convirtiéndose así en una fuente histórica clave para el estudio de Mayapajit y, al mismo tiempo, proporcionando una importante base histórica para la identidad nacional de la Indonesia moderna.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_TRAJAN_S_COLUMN_NAME" Language="es_ES">
+			<Text>Columna de Trajano</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_TRAJAN_S_COLUMN_DESCRIPTION" Language="es_ES">
+			<Text>"Sis felicior Augusto, melior Traiano["</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_TRAJAN_S_COLUMN_EFFECT" Language="es_ES">
+			<Text>Los Monumentos y los Obeliscos al Antiguo Dios proporcionan +2 de Cultura [ICON_Culture].</Text><!-- agregarle +1 adicional en la era clasica y +1 adicional en la era renacimiento y +1 en la era moderna -->
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_TRAJAN_S_COLUMN_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_TRAJAN_S_COLUMN_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_TRAJAN_S_COLUMN_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TRAJAN_S_COLUMN_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_TRAJAN_S_COLUMN_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TRAJAN_S_COLUMN_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_TRAJAN_S_COLUMN_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TRAJAN_S_COLUMN_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>La Columna de Trajano es una estructura monumental construida por el Imperio Romano en el año 113 d.C. para conmemorar la conquista de Dacia (actual Rumanía) por el emperador Trajano. Con una altura de 38 metros (incluida la base), está compuesta por 20 bloques de mármol de Carrara. Esta columna, situada en el Foro de Trajano en Roma, es famosa por sus exquisitos bajorrelieves en espiral. Una banda de relieve continuo de 200 metros de longitud representa vívidamente escenas clave de las Guerras Dacias (101-106 d.C.), incluyendo actividades militares como marchas, batallas y negociaciones. En total, se representan aproximadamente 2500 figuras humanas, y el propio emperador Trajano aparece casi 60 veces. Dentro de la columna, 185 escalones conducen a una plataforma de observación en la cima, donde originalmente se encontraba una estatua de bronce dorado de Trajano (reemplazada por una estatua de San Pedro en el siglo XVI).</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TRAJAN_S_COLUMN_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>La columna no solo poseé un importante valor como material histórico militar, sino que sus detalles en relieve también documentan fielmente el equipamiento y las tácticas de las legiones romanas, así como las características culturales de los dacios. Además, la Columna de Trajano influyó en el diseño de numerosas estructuras conmemorativas posteriores, incluida la Columna Vendôme en París. Hoy en día, esta bien conservada joya de la arquitectura romana antigua sigue en pie en su ubicación original, ha sido incluida en la Lista del Patrimonio Mundial de la UNESCO, y es un material físico importante para el estudio de la historia, el arte y la ingeniería de la Antigua Roma.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_BLOOD_BAG_NAME" Language="es_ES">
+			<Text>Odre de Sangre</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_BLOOD_BAG_DESCRIPTION" Language="es_ES">
+			<Text>"... llenó un odre de sangre humana y sumergió la cabeza de Ciro en él"</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_BLOOD_BAG_EFFECT" Language="es_ES">
+			<Text>Las unidades terrestres obtienen puntos de Gran General [ICON_GreatGeneral] equivalentes al 25% de su Fuerza de Combate [ICON_Strength] al eliminar unidades de civilizaciones principales o menores (velocidad estándar).</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_BLOOD_BAG_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_BLOOD_BAG_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_BLOOD_BAG_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_BLOOD_BAG_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_BLOOD_BAG_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_BLOOD_BAG_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_BLOOD_BAG_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_BLOOD_BAG_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Tras embriagarse por su "supuesta" victoria, Espargapises, hijo de Tomiris, se embriagó con el vino del campamento abandonado; fue capturado mediante la astucia de por Ciro el Grande al fingir su retirada; y al recuperar la conciencia se suicidó. Tomiris, enfurecida, envió una carta a Ciro donde denunciaba que el vino que había provocado la derrota de su ejército y la muerte de su hijo era una droga que volvía locos a los hombres, y le exigió que abandonara sus tierras o juraría por el sol que "haría correr más sangre de la que él pudiera beber".</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_BLOOD_BAG_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Según Heródoto, Tomiris lideró personalmente al ejército masageta en la batalla decisiva donde derrotaron a los persas. Al encontrar el cadáver de Ciro, cortó su cabeza y la metió en un odre lleno de sangre, diciéndole: "¡Saciate ahora de sangre!".</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_SUNNY_WAYS_NAME" Language="es_ES">
+			<Text>"Sunny Ways"</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_SUNNY_WAYS_DESCRIPTION" Language="es_ES">
+			<Text>"Prefiero los "Caminos Soleados"... la política de la paciencia, la tolerancia y la conciliación, antes que la fuerza bruta".</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_SUNNY_WAYS_EFFECT" Language="es_ES">
+			<Text>Las ciudades obtienen +1 de Servicios [ICON_Amenities] por cada religión presente (con al menos 1 seguidor).</Text><!--agregar +2 de lealtad ya que es muy debil-->
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_SUNNY_WAYS_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_SUNNY_WAYS_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_SUNNY_WAYS_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_SUNNY_WAYS_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_SUNNY_WAYS_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_SUNNY_WAYS_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_SUNNY_WAYS_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_SUNNY_WAYS_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>El llamado de Wilfrid Laurier a un "Camino soleado" en el discurso político se basó en el problema de las escuelas de Manitoba, que fueron establecidas en 1870 como un sistema escolar dual para acomodar tanto a la población protestante, predominantemente de habla inglesa, como a la población católica, predominantemente de habla francesa, de la provincia. Para 1890, la población de habla inglesa había superado con creces en número a la población de habla francesa. Con el fin de atraer a esta creciente población, el gobierno provincial bajo Thomas Greenway intentó abolir el sistema escolar dual.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_SUNNY_WAYS_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>En 1890, Manitoba aprobó la Ley del Idioma Oficial, que eliminó los fondos públicos para las escuelas confesionales católicas y protestantes. Muchos creyeron que esto contradecía las disposiciones sobre escuelas confesionales establecidas en la Ley de Manitoba de 1870. Con el apoyo del gobierno federal Conservador, la comunidad católica de Manitoba impugnó la Ley del Idioma Oficial en los tribunales. El Comité Judicial del Consejo Privado dictaminó que, si bien la retirada de fondos públicos de Manitoba para las escuelas confesionales cumplía con la Ley de Manitoba, el gobierno federal podía restablecer los fondos a través de legislación correctiva. En 1895, a pesar de las importantes divisiones, el entonces Primer Ministro Mackenzie Bowell propuso legislación para obligar a Manitoba a restablecer la financiación de las escuelas católicas. Sin embargo, debido a la fuerte oposición dentro de su propio gabinete, el proyecto de ley se retrasó, lo que finalmente llevó a su dimisión.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_SUNNY_WAYS_CHAPTER_HISTORY_PARA_3" Language="es_ES">
+			<Text>En contraste con las tácticas de mano dura de Bowell, el líder liberal Wilfrid Laurier sugirió que un "Camino Soleado" diplomático sería más efectiva. Citó el ejemplo de la fábula de Esopo en la que el sol y el viento competían para ver quién podía quitarle el abrigo a un viajero. El calor del sol resultó ser más efectivo que el viento. Después de ganar las elecciones de 1896, Laurier llegó a un compromiso con Greenway que permitía la educación católica en las escuelas de Manitoba (siempre que el número de estudiantes lo permitiera), con el francés como idioma de instrucción.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_EENZAAM_MAAR_NIET_ALLEEN_NAME" Language="es_ES">
+			<Text>""Eenzaam maar niet alleen""</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_EENZAAM_MAAR_NIET_ALLEEN_DESCRIPTION" Language="es_ES">
+			<Text>Las memorias de una reina.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_EENZAAM_MAAR_NIET_ALLEEN_EFFECT" Language="es_ES">
+			<Text>Los Centros de transmisión proporcionan +2 de Producción [ICON_Production] y otorgan +5 de Fuerza de Combate [ICON_Strength] a las unidades militares dentro de un radio de 2 casillas.</Text><!--agregar +3 de fuerza adicionales si se encuentran dentro de un distrito del imperio y reducir el de los centros de transmicion a +2 -->
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_EENZAAM_MAAR_NIET_ALLEEN_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_EENZAAM_MAAR_NIET_ALLEEN_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_EENZAAM_MAAR_NIET_ALLEEN_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_EENZAAM_MAAR_NIET_ALLEEN_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_EENZAAM_MAAR_NIET_ALLEEN_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_EENZAAM_MAAR_NIET_ALLEEN_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_EENZAAM_MAAR_NIET_ALLEEN_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_EENZAAM_MAAR_NIET_ALLEEN_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>"Eenzaam maar niet alleen" ("Sola pero no sola") son las memorias de la reina Guillermina de los Países Bajos, publicada en 1959. En estas memorias, reflexiona sobre su vida, su juventud en el siglo XIX, los difíciles años de neutralidad durante la Primera Guerra Mundial y su exilio durante la ocupación nazi de Alemania. Cuando Alemania invadió los Países Bajos en 1940, la reina Guillermina se exilió en Inglaterra y se convirtió en un símbolo espiritual de la resistencia neerlandesa a través de sus constantes discursos radiofónicos dirigidos a su pueblo en los territorios ocupados.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_EENZAAM_MAAR_NIET_ALLEEN_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Estas memorias tienen un estilo claro y están marcadas por una profunda fe religiosa. Hasta el día de hoy, siguen siendo un documento importante para el estudio de la historia neerlandesa durante la Segunda Guerra Mundial y la vida personal de la reina Guillermina.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_QUEEN_VICTORIA_S_JOURNALS_NAME" Language="es_ES">
+			<Text>"The Girlhood of Queen Victoria"</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_QUEEN_VICTORIA_S_JOURNALS_DESCRIPTION" Language="es_ES">
+			<Text>"Una selección de los diarios de Su Majestad entre los años 1832 y 1840"</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_QUEEN_VICTORIA_S_JOURNALS_EFFECT" Language="es_ES">
+			<Text>Los distritos de Zonas Industrial y Puerto proporcionan +1 punto de Gran Escritor [ICON_GreatWriter].</Text><!--agregar Hansa/oppidum,astillero de la marina real/cothon-->
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_QUEEN_VICTORIA_S_JOURNALS_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_QUEEN_VICTORIA_S_JOURNALS_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_QUEEN_VICTORIA_S_JOURNALS_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_QUEEN_VICTORIA_S_JOURNALS_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_QUEEN_VICTORIA_S_JOURNALS_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_QUEEN_VICTORIA_S_JOURNALS_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_QUEEN_VICTORIA_S_JOURNALS_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_QUEEN_VICTORIA_S_JOURNALS_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Se dice que, desde julio de 1832 hasta la víspera de su muerte, la reina Victoria mantuvo un diario privado durante 69 años, escribiendo más de 2,000 palabras al día, lo que finalmente ascendió a 60 millones de palabras repartidas en 122 volúmenes. Estos diarios detallaban su vida privada, opiniones políticas y reflexiones sobre los asuntos de la Gran Bretaña del siglo XIX y su Imperio. Parte de estos diarios fueron posteriormente compilados y publicados por su hija, la princesa Beatriz, y se han convertido en una fuente histórica importante sobre la era victoriana.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_WU_ZETIAN_UNINSCRIBED_STELE_NAME" Language="es_ES">
+			<Text>Wúzì Bēi</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_WU_ZETIAN_UNINSCRIBED_STELE_DESCRIPTION" Language="es_ES">
+			<Text>"Dejad que la posteridad juzgue los méritos y errores."</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_WU_ZETIAN_UNINSCRIBED_STELE_EFFECT" Language="es_ES">
+			<Text>"Los distritos de Campus, Teatro, Centros Comercial, Zona Industrial y Lugar Sagrado otorgan +1 de su rendimiento correspondiente a los Monumentos y Obeliscos al Antiguo Dios en sus ciudades."</Text><!--agregar seowon/observatorio,acropolis,suguba,hansa/oppidum y laura//ademas de puerto y sus equivalentes-->
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_WU_ZETIAN_UNINSCRIBED_STELE_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_WU_ZETIAN_UNINSCRIBED_STELE_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_WU_ZETIAN_UNINSCRIBED_STELE_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_WU_ZETIAN_UNINSCRIBED_STELE_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_WU_ZETIAN_UNINSCRIBED_STELE_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_WU_ZETIAN_UNINSCRIBED_STELE_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_WU_ZETIAN_UNINSCRIBED_STELE_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_WU_ZETIAN_UNINSCRIBED_STELE_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Wu Zetian fue la única emperatriz en la historia de China, fundando la dinastía Zhou en su reinado. Como consorte del emperador Li Zhi (Gaozong) de la dinastía Tang, ascendió al poder mediante extraordinarias maniobras políticas, coronándose a los 67 años. Su gobierno, marcado por reformas en los exámenes imperiales y represión de opositores, fue controvertida. La estela de 7.5 metros y 98.8 toneladas en el Mausoleo Qianling (Shaanxi) contrasta deliberadamente con la estela que registra los logros del emperador Gaozong.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_WU_ZETIAN_UNINSCRIBED_STELE_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Sobre la intención de la estela sin inscribir siempre ha habido división de opiniones: algunos creen que es una muestra de la sabiduría de Wu Zetian para "dejad que la posteridad juzgue"; otros especulan que originalmente se planeó grabar algo, pero debido a la inestabilidad política, no se pudo completar; también hay quienes afirman que sigue el legado de Wu Zetian, quien decretó que "sus actos no necesitan palabras para ser descritos". Esta piedra silenciosa, después de más de 1,300 años de intemperie, se ha convertido en el mejor símbolo de la vida legendaria de Wu Zetian, atrayendo a incontables visitantes que se detienen a contemplarla, siendo testigo mudo del misterio eterno dejado por la única emperatriz China de la historia.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_THE_WILDERNESS_HUNTER_NAME" Language="es_ES">
+			<Text>"The Wilderness Hunter"</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_THE_WILDERNESS_HUNTER_DESCRIPTION" Language="es_ES">
+			<Text>"Era el cazador y el naturalista, el explorador y el conservacionista, ..."</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_THE_WILDERNESS_HUNTER_EFFECT" Language="es_ES">
+			<Text>Las Unidades terrestres ganan +5 de Fuerza de Combate [ICON_Strength] al luchar en Bosques, Selvas o Sabanas</Text><!--aclarar sabanas-->
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_THE_WILDERNESS_HUNTER_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_THE_WILDERNESS_HUNTER_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_THE_WILDERNESS_HUNTER_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_THE_WILDERNESS_HUNTER_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_THE_WILDERNESS_HUNTER_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_THE_WILDERNESS_HUNTER_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_THE_WILDERNESS_HUNTER_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_THE_WILDERNESS_HUNTER_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Theodore Roosevelt no solo fue presidente de los Estados Unidos, sino también un reconocido naturalista y autor. Su libro de 1893, "The Wilderness Hunter", relata las experiencias del futuro presidente como ranchero y cazador en Dakota del Norte. Como entusiasta de la vida al aire libre y agudo observador de la naturaleza, el libro no solo describe vívidamente la emoción de rastrear animales salvajes, sino que también demuestra su aprecio y amor por la belleza natural.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_THE_WILDERNESS_HUNTER_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Esta obra trasciende las memorias de caza y refleja la filosofía ambiental temprana de Roosevelt: a pesar de su pasión por la caza, también enfatizó el uso sabio y la conservación de los recursos naturales. Su tiempo en el Oeste estadounidense influyó directamente en sus políticas de conservación durante su presidencia (1901-1909). Utilizó frecuentemente órdenes ejecutivas para proteger bosques y hábitats de vida silvestre, y firmó la Ley de Antigüedades de 1906, que permitió al presidente reservar áreas naturales valiosas como parques y monumentos nacionales. Roosevelt estableció numerosas reservas naturales, incluyendo cinco parques nacionales, sentando las bases del sistema moderno de conservación de los EE.UU.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_JAMAICA_LETTER_NAME" Language="es_ES">
+			<Text>Carta de Jamaica</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_JAMAICA_LETTER_DESCRIPTION" Language="es_ES">
+			<Text>"Yo deseo más que otro alguno ver formar en América la más grande nación del mundo ..."</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_JAMAICA_LETTER_EFFECT" Language="es_ES">
+			<Text>Recibe +3 de Favor Diplomático [ICON_FAVOR] por turno, y +3 adicional después de entrar en la Era Industrial.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_JAMAICA_LETTER_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_JAMAICA_LETTER_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_JAMAICA_LETTER_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_JAMAICA_LETTER_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_JAMAICA_LETTER_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_JAMAICA_LETTER_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_JAMAICA_LETTER_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_JAMAICA_LETTER_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>La "Carta de Jamaica" es una extensa misiva escrita por Simón Bolívar el 6 de septiembre de 1815 mientras se refugiaba en Jamaica. Fue una respuesta a una carta del comerciante jamaiquino Henry Cullen, en la que Bolívar explicaba sus pensamientos sobre la situación social y política de la América española en ese momento, el poder del Imperio español y el posible futuro de las nuevas naciones que surgirían tras su colapso.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_JAMAICA_LETTER_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>En su carta, Bolívar comenzó analizando lo que entonces se consideraba una victoria histórica en la lucha por la libertad en América: el equilibrio de poder logrado por los patriotas entre 1810 y 1815. La parte central del documento expone las razones y justificaciones para la independencia de los "hispanoamericanos", seguida de un llamado a la cooperación europea en la liberación de los pueblos americanos. En la tercera y última parte, especuló sobre el destino de México, Centroamérica, Nueva Granada, Venezuela, el Virreinato del Río de la Plata, Chile y Perú. Finalmente, Bolívar concluyó con una frase que repetiría hasta su muerte: "América debe unirse".</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_JAMAICA_LETTER_CHAPTER_HISTORY_PARA_3" Language="es_ES">
+			<Text>Esa carta, escrita en el punto más bajo de la revolución, se convirtió en un documento programático que guió el movimiento independentista latinoamericano. Sus reflexiones sobre la construcción nacional en la era poscolonial siguen siendo relevantes hoy en día.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_BIBLIOTHECA_CORVINIANA_NAME" Language="es_ES">
+			<Text>Biblioteca Corviniana</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_BIBLIOTHECA_CORVINIANA_DESCRIPTION" Language="es_ES">
+			<Text>Su tamaño y la riqueza de sus manuscritos la hicieron legendaria incluso en vida de Matías Corvino.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_BIBLIOTHECA_CORVINIANA_EFFECT" Language="es_ES">
+			<Text>Las bibliotecas otorgan +1 de Cultura [ICON_Culture] y +1 de Favor Diplomático [ICON_FAVOR].</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_BIBLIOTHECA_CORVINIANA_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_BIBLIOTHECA_CORVINIANA_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_BIBLIOTHECA_CORVINIANA_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_BIBLIOTHECA_CORVINIANA_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_BIBLIOTHECA_CORVINIANA_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_BIBLIOTHECA_CORVINIANA_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_BIBLIOTHECA_CORVINIANA_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_BIBLIOTHECA_CORVINIANA_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>El rey Matías Corvino de Hungría (1443–1490) no solo fue un destacado militar, sino también el primer monarca no italiano en promover activamente el arte y el pensamiento renacentista. Su matrimonio con Beatriz de Nápoles fortaleció los lazos culturales entre Hungría e Italia, haciendo del país el primero fuera de la península itálica en abrazar el Renacimiento. Fundó la Bibliotheca Corviniana, que llegaría a ser una de las mayores colecciones de libros de Europa en el siglo XV, rivalizando con las bibliotecas del Vaticano y Florencia.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_BIBLIOTHECA_CORVINIANA_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Matías comenzó a reunir manuscritos en 1460, adquiriendo obras de filósofos griegos, científicos árabes y humanistas italianos. Los volúmenes, encuadernados en terciopelo con broches de oro, incluían traducciones de Aristóteles, Ptolomeo e incluso textos recién impresos. Hacia 1490, la biblioteca albergaba unos 3,000 códices, muchos copiados por escribas en el scriptorium real de Buda. Tras su muerte y la derrota húngara en la batalla de Mohács (1526), los turcos otomanos saquearon la colección. Solo 216 volúmenes sobrevivieron, dispersos en bibliotecas desde Viena hasta Estambul.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_BIBLIOTHECA_CORVINIANA_CHAPTER_HISTORY_PARA_3" Language="es_ES">
+			<Text>En 2005, la UNESCO inscribió los manuscritos supervivientes en su programa "Memory of the World", reconociendo su valor como testimonio del intercambio cultural entre Oriente y Occidente. Actualmente, Hungría lidera proyectos digitales para reunir virtualmente los Corvinas, símbolos del sueño humanista de Matías: convertir su corte en un "nuevo Atenas" junto al Danubio.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_FOOTPRINT_STONE_NAME" Language="es_ES">
+			<Text>La huella de Eduviges</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_FOOTPRINT_STONE_DESCRIPTION" Language="es_ES">
+			<Text>"... la piedra con la misteriosa huella se colocó frente a la entrada del templo."</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_FOOTPRINT_STONE_EFFECT" Language="es_ES">
+			<Text>Tus ciudades reciben +2% de Fe [ICON_Faith] por cada [ICON_Citizen] Población en la ciudad.</Text><!--cambiar a +1%-->
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_FOOTPRINT_STONE_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_FOOTPRINT_STONE_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_FOOTPRINT_STONE_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_FOOTPRINT_STONE_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_FOOTPRINT_STONE_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_FOOTPRINT_STONE_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_FOOTPRINT_STONE_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_FOOTPRINT_STONE_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Nacida en una familia conocida por su fervor religioso, Eduviges era una devota cristiana, principalmente de la Virgen María. Había grabado una inscripción en el precioso cáliz colocado en la Catedral de Wawel, pidiendo a la Virgen María que colocara a Polonia bajo su protección. Eduviges fue venerada en Polonia poco después de su muerte y ha sido considerada como un ejemplo de santidad en Europa Central y Oriental durante siglos.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_FOOTPRINT_STONE_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Su huella en la piedra es una leyenda que ha sido transmitida a través de la historia polaca y se ha convertido en uno de los símbolos de la Reina Jadwiga en la cultura polaca, a pesar de la falta de evidencia histórica concluyente. Según la leyenda, Eduviges se quitó una joya del pie y se la dio a un pobre albañil que le suplicó ayuda. Cuando la reina se fue, él notó que había dejado huellas en el piso de yeso de su lugar de trabajo, a pesar de que el yeso se había endurecido antes de su visita. La Piedra de la Huella ahora se conserva en la Iglesia de la Visitación de la Santísima Virgen María en Cracovia. La Reina Eduviges fue canonizada oficialmente por el Papa Juan Pablo II en 1997.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_GETTYSBURG_ADDRESS_NAME" Language="es_ES">
+			<Text>Discurso de Gettysburg</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_GETTYSBURG_ADDRESS_DESCRIPTION" Language="es_ES">
+			<Text>"Del pueblo, por el pueblo, para el pueblo."</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_GETTYSBURG_ADDRESS_EFFECT" Language="es_ES">
+			<Text>+1 espacio de política comodín después de investigar el principio Filosofía Política.</Text><!--cambiar-->
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_GETTYSBURG_ADDRESS_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_GETTYSBURG_ADDRESS_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_GETTYSBURG_ADDRESS_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_GETTYSBURG_ADDRESS_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_GETTYSBURG_ADDRESS_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_GETTYSBURG_ADDRESS_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_GETTYSBURG_ADDRESS_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_GETTYSBURG_ADDRESS_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>El discurso de Abraham Lincoln en la dedicación del Cementerio Nacional de Gettysburg el 19 de noviembre de 1863, en apenas 272 palabras y menos de dos minutos, fue el mayor discurso político en la historia estadounidense. En esta ceremonia que conmemoraba la Batalla de Gettysburg, un punto de inflexión en la Guerra Civil (que resultó en unas 50,000 bajas), Lincoln comenzó su discurso con las palabras "hace cuatro veintenas y siete años" y elevó la importancia de la Guerra Civil a la defensa del principio de la Declaración de Independencia de que "todos los hombres son creados iguales". Ofreció la definición clásica de "gobierno del pueblo, por el pueblo, para el pueblo", llamando a los vivos a seguir los pasos de los mártires y asegurar "un nuevo nacimiento de libertad".</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_GETTYSBURG_ADDRESS_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>A pesar de las críticas mediáticas en su momento, el discurso ha sido reconocido como la máxima expresión del espíritu democrático, y su manuscrito se ha convertido en un tesoro nacional de Estados Unidos, con la copia Bliss exhibida permanentemente en el Lincoln Memorial. El discurso se conmemora en Gettysburg cada 19 de noviembre, y el concepto de "del pueblo, por el pueblo, para el pueblo" ha trascendido fronteras nacionales para convertirse en el lenguaje común del movimiento democrático global, demostrando el poder eterno del lenguaje para cambiar la historia.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_LION_HELMET_NAME" Language="es_ES">
+			<Text>Yelmo de León</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_LION_HELMET_DESCRIPTION" Language="es_ES">
+			<Text>"Se enorgullecía de su linaje paterno que, según se decía, se remontaba a Heracles, y de su linaje materno que remontaba a los Eácidas, entre los cuales estaba Aquiles."</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_LION_HELMET_EFFECT" Language="es_ES">
+			<Text>Los Grandes Generales [ICON_GreatGeneral] otorgan +3 de Fuerza de Combate [ICON_Strength] adicional a unidades militares terrestres dentro de 2 casillas.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_LION_HELMET_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_LION_HELMET_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_LION_HELMET_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_LION_HELMET_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_LION_HELMET_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_LION_HELMET_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_LION_HELMET_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_LION_HELMET_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>El casco de león de Alejandro Magno es una figura que simboliza la realeza y el heroísmo, comúnmente encontrada en esculturas antiguas, mosaicos y monedas que representan a Alejandro. Aunque no hay evidencia concluyente de que un objeto específico fuera usado por él personalmente, la presencia generalizada del casco de león en su arte refleja su intención de emular al héroe mitológico griego Hércules, quien a menudo usaba una capucha hecha de la piel del león de Nemea. A través de este símbolo, Alejandro se asoció con linaje divino y valor excepcional, reforzando su legitimidad como rey-dios. El casco, que generalmente presentaba la boca de un león abierta, un cráneo cubriendo la parte superior de la cabeza y una melena de león colgando a los lados, era tanto funcional como simbólico, y fue un elemento visual importante en el arte de la realeza helenística.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_TILBURY_SPEECH_NAME" Language="es_ES">
+			<Text>Discurso de Tilbury</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_TILBURY_SPEECH_DESCRIPTION" Language="es_ES">
+			<Text>"Sé que solo tengo el cuerpo de una mujer débil y frágil, pero tengo el corazón y el estómago de un rey, y de un rey de Inglaterra además ..."</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_TILBURY_SPEECH_EFFECT" Language="es_ES">
+			<Text>Las unidades navales reciben +3 de Fuerza de Combate [ICON_Strength].</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_TILBURY_SPEECH_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_TILBURY_SPEECH_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_TILBURY_SPEECH_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TILBURY_SPEECH_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_TILBURY_SPEECH_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TILBURY_SPEECH_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_TILBURY_SPEECH_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TILBURY_SPEECH_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>En agosto de 1588, cuando la invencible Armada Invencible española amenazaba Inglaterra, la Reina Isabel I fue a los Cuarteles de Tilbury para pronunciar uno de los discursos previos a la batalla más poderosos en la historia inglesa. Vestida con una armadura plateada e inspeccionando las tropas a caballo, la Reina demostró un coraje y liderazgo extraordinarios a los soldados reunidos. Prometió "vivir y morir entre vosotros" al ejército y juró actuar como "vuestro general, vuestro juez y quien ha de recompensar vuestras virtudes” si el enemigo invadía, un discurso que aumentó enormemente la moral del ejército británico.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_TILBURY_SPEECH_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Aunque el texto original del discurso se ha perdido, el espíritu central del discurso se recuerda en la historia: la derrota milagrosa de la poderosa Armada Invencible por la Marina Británica poco después del discurso. El discurso se convirtió en un evento simbólico de la Edad de Oro de Isabel y todavía se considera un hito importante en el despertar de la nación inglesa, y el momento de valentía de la legendaria Reina continúa celebrándose en un evento conmemorativo que se lleva a cabo en Tilbury cada agosto.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_YONGLE_ENCYCLOPEDIA_NAME" Language="es_ES">
+			<Text>Yǒnglè Dàdiǎn</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_YONGLE_ENCYCLOPEDIA_DESCRIPTION" Language="es_ES">
+			<Text>"Es el libro más extenso jamás compilado en la historia de la humanidad, un monumento al conocimiento ..."</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_YONGLE_ENCYCLOPEDIA_EFFECT" Language="es_ES">
+			<Text>Las ciudades con una biblioteca reciben +3 de Alimentos [ICON_Food] y +15% de crecimiento.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_YONGLE_ENCYCLOPEDIA_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_YONGLE_ENCYCLOPEDIA_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_YONGLE_ENCYCLOPEDIA_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_YONGLE_ENCYCLOPEDIA_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_YONGLE_ENCYCLOPEDIA_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_YONGLE_ENCYCLOPEDIA_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_YONGLE_ENCYCLOPEDIA_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_YONGLE_ENCYCLOPEDIA_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Zhu Di, el Emperador Yongle de la Dinastía Ming, en el primer año de Yongle (1403) ordenó la compilación de la Yǒnglè Dàdiǎn (Enciclopedia Yongle). Esta obra maestra sin precedentes fue compilada por eruditos de la academia imperial como Xie Jin y Yao Guangxiao, quienes lideraron a 2,169 eruditos y tardaron cinco años (1403-1408) en completar la compilación del libro. El canon consistía en 22,937 volúmenes, 11,095 libros, con aproximadamente 370 millones de palabras, y se incluyeron más de 8,000 tipos de varios tipos de libros canónicos desde la Dinastía Qin anterior hasta el comienzo de la Dinastía Ming, cubriendo las escrituras, historia, textos astronómicos y geografía, medicina, agricultura e industria, lo que se llama la enciclopedia más grande de la antigua China. Durante el reinado del Emperador Jiajing, se transcribió una copia de la Enciclopedia Yongle. Esta obra maestra no solo preservó sistemáticamente el canon de la civilización china (muchos libros perdidos solo dependen de esto para poder transmitirse), sino que también mostró el ambiente cultural del próspero reinado de Yongle.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_YONGLE_ENCYCLOPEDIA_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Desafortunadamente, la copia original de la Enciclopedia Yongle fue destruida en la caída de la Dinastía Ming, y las copias también fueron repetidamente robadas; ahora solo quedan más de 400 libros y 800 volúmenes, que están dispersos en las principales bibliotecas de todo el mundo. Después de la fundación de la República Popular China, las organizaciones de recolección de libros de países amigos y algunos coleccionistas privados de libros donaron los libros recopilados de la Enciclopedia Yongle al gobierno chino. Ahora, la Biblioteca Nacional de China ha recopilado 224 volúmenes de la Enciclopedia Yongle (62 de los cuales ahora se almacenan temporalmente en el Museo del Palacio Nacional en Taipei). La Enciclopedia Yongle todavía se considera un monumento de la civilización china.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_AUSTRALIA_LOOKS_TO_US_NAME" Language="es_ES">
+			<Text>Giro hacia América</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_AUSTRALIA_LOOKS_TO_US_DESCRIPTION" Language="es_ES">
+			<Text>"Sin inhibiciones de ningún tipo, dejo bien claro que Australia mira a América."</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_AUSTRALIA_LOOKS_TO_US_EFFECT" Language="es_ES">
+			<Text>Desbloquea +1 espacio de política diplomática al investigar el principio "Filosofía Politica".</Text><!--cambiar-->
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_AUSTRALIA_LOOKS_TO_US_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_AUSTRALIA_LOOKS_TO_US_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_AUSTRALIA_LOOKS_TO_US_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_AUSTRALIA_LOOKS_TO_US_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_AUSTRALIA_LOOKS_TO_US_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_AUSTRALIA_LOOKS_TO_US_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_AUSTRALIA_LOOKS_TO_US_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_AUSTRALIA_LOOKS_TO_US_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>El 26 de diciembre de 1941, el primer ministro australiano John Curtin pronunció un discurso de Año Nuevo por radio, que se publicó al día siguiente en el Melbourne Herald, donde declaró que en ese momento crítico, Estados Unidos era la única potencia capaz de garantizar la seguridad de Australia en el Pacífico. Esta declaración reescribió por completo la estrategia de defensa y política exterior de Australia, marcando un punto de inflexión en sus relaciones con Gran Bretaña, su país fundador. Ante la crítica situación de la invasión japonesa hacia el sur y la caída de Singapur, este líder laborista declaró resueltamente que "Australia mirará primero a Estados Unidos", rompiendo con el sistema tradicional de defensa del Imperio Británico y exigiendo que las tropas australianas en Oriente Medio regresaran inmediatamente a casa para defender el territorio nacional en lugar de ir a Birmania.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_AUSTRALIA_LOOKS_TO_US_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Aunque esta controvertida decisión encontró una fuerte oposición de Churchill, logró establecer el Cuartel General del Teatro del Pacífico Suroeste de las fuerzas estadounidenses (1942) y finalmente llevó al general MacArthur a establecer Melbourne como base para la contraofensiva. Este giro estratégico de Curtin no solo ayudó a Australia a superar el período más oscuro de la Segunda Guerra Mundial, sino que también sentó las bases para el Tratado de Seguridad ANZUS posterior a la guerra, siendo considerado un punto de inflexión clave en la transición de Australia desde un dominio británico autónomo hacia una política exterior independiente.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_ARTHASHASTRA_NAME" Language="es_ES">
+			<Text>Artha-shastra</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_ARTHASHASTRA_DESCRIPTION" Language="es_ES">
+			<Text>"... y ese Shastra que trata de los medios para adquirir y mantener la tierra es el Artha-shastra, la ciencia de la política."</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_ARTHASHASTRA_EFFECT" Language="es_ES">
+			<Text>Desbloquea +1 espacio de política militar al investigar el principio "Entrenamiento Militar".</Text><!--cambiar-->
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_ARTHASHASTRA_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_ARTHASHASTRA_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_ARTHASHASTRA_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_ARTHASHASTRA_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_ARTHASHASTRA_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_ARTHASHASTRA_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_ARTHASHASTRA_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_ARTHASHASTRA_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>El "Arthashastra" se le atribuye tradicionalmente a Chanakya, consejero de Chandragupta. Esta obra clásica, considerada la "enciclopedia del gobierno en la antigua India", expone sistemáticamente los siete elementos del Estado (rey, ministros, aldea, ciudad, tesoro, ejército y aliados), y su contenido es asombrosamente amplio, abarcando desde espías y políticas económicas hasta despliegues militares, legislación y castigos. El "Arthashastra" proporciona información valiosa sobre el establecimiento y el sistema de gobierno de la dinastía Maurya.</Text>
+		</Replace>
+
+
+		<Replace Tag="LOC_MEMENTO_COMPLETE_ANNALS_OF_DAI_VIET_NAME" Language="es_ES">
+			<Text>Crónicas Completas de Đại Việt</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_COMPLETE_ANNALS_OF_DAI_VIET_DESCRIPTION" Language="es_ES">
+			<Text>Un compendio monumental que abarca miles de años de historia vietnamita.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_COMPLETE_ANNALS_OF_DAI_VIET_EFFECT" Language="es_ES">
+			<Text>+3 de Fuerza de Combate [ICON_Strength] cuando se lucha en tu territorio.</Text>
+		</Replace>
+		<Replace Tag="LOC_MEMENTO_COMPLETE_ANNALS_OF_DAI_VIET_TOOLTIP" Language="es_ES">
+			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_COMPLETE_ANNALS_OF_DAI_VIET_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_COMPLETE_ANNALS_OF_DAI_VIET_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_COMPLETE_ANNALS_OF_DAI_VIET_CHAPTER_DESC_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_COMPLETE_ANNALS_OF_DAI_VIET_DESCRIPTION}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_COMPLETE_ANNALS_OF_DAI_VIET_CHAPTER_EFFECT_PARA_1" Language="es_ES">
+			<Text>{LOC_MEMENTO_COMPLETE_ANNALS_OF_DAI_VIET_EFFECT}</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_COMPLETE_ANNALS_OF_DAI_VIET_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>Bà Triệu es considerada una importante líder femenina del siglo III en la resistencia vietnamita contra el régimen de Wu Oriental. Los "Anales Completos de Dai Viet" fueron compilados por Ngô Sĩ Liên en el siglo XV y ampliados por Lê Hy en el siglo XVII. Escritos en chino clásico y en formato cronológico, presentan sistemáticamente la historia de Vietnam desde los tiempos legendarios hasta los siglos XV-XVII. El primer registro oficial de Bà Triệu aparece precisamente en esta obra, que cita los "Registros de Jiaozhi".</Text>
+		</Replace>
+		
+	</LocalizedText>
+</GameData>

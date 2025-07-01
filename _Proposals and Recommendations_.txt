@@ -1,0 +1,178 @@
+Its only my opinión...
+
+_______________
+
+ADD DISTRICTS
+_______________
+
+MEMENTO_TROUBADOUR_POETRY_MANUSCRIPTS: Acropolis
+MEMENTO_TEMPLE_RELIEFS_OF_MEROE: Lavra
+MEMENTO_MOSAIC_OF_THEODORA: Lavra
+MEMENTO_EL_ESCORIAL_RELIQUARIES: Lavra
+MEMENTO_GOLD_OF_MANSA_MUSA: Lavra
+MEMENTO_HUNMINJEONGEUM: Observatory
+MEMENTO_LETTERS_TO_MANUEL_I: Neighborhood
+MEMENTO_QUEEN_VICTORIA_S_JOURNALS: Hansa/Oppidum, Royal Navy Dockyard/Cothon
+MEMENTO_WU_ZETIAN_UNINSCRIBED_STELE: Seowon/Observatory, Acropolis, Suguba, Hansa/Oppidum, Lavra, Harbor/Royal Navy Dockyard/Cothon (+1 Gold as well)
+MEMENTO_MASCAPAYCHA: Applies to all districts of any civilization.
+
+________
+
+REWORKS
+________
+
+MEMENTO_CELTIC_LONGSWORD: +3 Combat Strength for melee units.
+MEMENTO_LETTERS_TO_AZZOLINO: +1 Writer, Artist, Musician for Government Plaza; +1 additional Writer, Artist, Musician for Tier 1 buildings; +2 additional Writers, Artists, Musicians for Tier 2 and 3 buildings.
+MEMENTO_EENZAAM_MAAR_NIET_ALLEEN: +3 Combat Strength if within an empire district; +2 Combat Strength if within 2 tiles of Broadcast Centers. Broadcast Centers provide +2 Production.
+
+____________________________________________
+
+SPECIAL REWORKS (I consider these necessary)
+____________________________________________
+----------------------
+(No more policy cards)
+----------------------
+
+MEMENTO_CODE_OF_HAMMURABI:
+
++50% Production for Government Plaza; +30% Construction Speed for its buildings.
+
+Palace gains +1 Food, +1 Gold, +1 Culture (optionally +1 Production).
+
+"Historically, this legal code established governmental stability and improved transactions by ensuring security."
+
+
+MEMENTO_GETTYSBURG_ADDRESS:
+
+Domestic Trade Routes grant +5 Loyalty to both cities, +1 Production, and +1 Culture.
+
+"Strengthens internal relations and consolidates state loyalty."
+
+
+MEMENTO_AUSTRALIA_LOOKS_TO_US:
+
+Trade Routes with more advanced civilizations grant +1 Production, +1 Gold, and +1 Culture (if the civilization is 2 technologies ahead).
+
+"Shifting toward advanced markets boosted development."
+
+
+MEMENTO_ARTHASHASTRA:
+
+Palace and Government Plaza buildings provide +1 Production, +1 Gold, and +1 Food to all cities.
+
+"This ancient manual maximized state benefits and imperial survival."
+
+(These are alternatives I deem essential, but they can be adjusted as long as they’re not policy cards. Explanation below.)
+
+----------------------
+(EACH MEMENTO IS UNIQUE)
+----------------------
+
+MEMENTO_DOUBLE_HEADED_SERPENT:
+
++1 "TURQUOISE" upon researching "Bronze Working" (Ancient Era).
+
++2 "TURQUOISE" for "Military Tactics" (Medieval Era).
+
++3 "TURQUOISE" for "Military Science" (Industrial Era).
+
+"A conqueror’s path."
+
+MEMENTO_PEONY_SEONDEOK:
+
++1 "PEONY" for "Writing" (Ancient Era).
+
++2 "PEONY" for "Education" (Medieval Era).
+
++3 "PEONY" for "Scientific Theory" (Industrial Era).
+
+"A path to scientific progress."
+
+________________
+
+MINIMUM CHANGES
+_________________
+
+
+MEMENTO_TEMPLE_RELIEFS_OF_MEROE:
+
+Holy Site districts grant +1 Influence per turn (+1 extra if adjacent to a Nubian Pyramid) after researching "Divine Right." (Previously strong early-game.)
+
+
+MEMENTO_JULIAN_CALENDAR:
+
+Farms gain +1 Production and +1 Gold if adjacent to an Aqueduct or Bath district. *(Replaces +1 Production; too similar to "Terrace Farms.")*
+
+
+MEMENTO_NEGOTIATION_STOOL:
+
++2 Influence per turn; +4 in the Industrial Era. (Previously overpowered early-game.)
+
+
+MEMENTO_CYRUS_CYLINDER:
+
++1 Faith per Population (max +10 Faith per city). (Previously broken late-game.)
+
+
+MEMENTO_KADESH_INSCRIPTIONS:
+
++15% Wonder Production during wars. (Exploit: Starting but not fighting wars granted free Wonder boosts.)
+
+
+MEMENTO_TRAJAN_S_COLUMN:
+
+Monuments and Old God Obelisks provide +1 Culture (+1 extra in Classical Era, +1 in Renaissance). (Balanced across eras.)
+
+
+MEMENTO_SUNNY_WAYS:
+
+Cities gain +1 Amenities and +2 Loyalty per religion present (with at least 1 follower). (Previously weak early.)
+
+
+MEMENTO_FOOTPRINT_STONE:
+
+Cities gain +1% Faith per Population (max 15% Faith). (Previously OP late-game.)
+
+
+MEMENTO_OTTOMAN_LAWS:
+
+All cities gain +5 Loyalty (+5 extra with a Holy Site district). (Previously weak early.)
+
+____________________
+
+SPECIAL REQUEST
+____________________
+
+
+MEMENTO_MASCAPAYCHA:
+
+Add +1 Great Engineer Point when founding a city on Grassland Hills, Plains Hills, or Desert Hills.
+
+"As a Peruvian, I want to highlight Inca ingenuity in adapting to Andean geography (mountains)."
+__________________________
+
+POLICY CARDS (MY PROPOSAL)
+__________________________
+
+(Overpowered early-game and stackable. Better to disable or restrict to late-game. Optional toggle if desired.)
+
+
+MEMENTO_PATH_TOWARD_COMMUNISM:
+
+Under Communist government: +1 Wildcard Policy slot.
+
+
+MEMENTO_FASCISM_PROPAGANDA:
+
+Under Fascist government: +1 Diplomatic Policy slot.
+
+
+MEMENTO_DEFENSE_OF_DEMOCRACY:
+
+Under Democratic government: +1 Military Policy slot.
+
+
+"This way, you can plan your empire’s future without breaking early-game balance."
+
+
+Thx for reading, the chages its probably they are too many and perhaps too difficult to encode, sorry.
