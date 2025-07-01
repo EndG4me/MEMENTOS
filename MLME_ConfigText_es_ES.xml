@@ -1201,7 +1201,7 @@
 			<Text>"El Sultán aceptó una tregua, aunque odiaba las treguas."</Text>
 		</Replace>
 		<Replace Tag="LOC_MEMENTO_TREATY_OF_JAFFA_1192_EFFECT" Language="es_ES">
-			<Text>Las unidades militares reciben +5 de Fuerza de Combate [ICON_Strength] cuando están dentro de 6 casillas o menos de una Ciudad Santa</Text><!-- verificar -->
+			<Text>Las unidades militares reciben +5 de Fuerza de Combate [ICON_Strength] cuando están dentro de 6 casillas o menos de un Lugar Sagrado</Text><!-- verificar -->
 		</Replace>
 		<Replace Tag="LOC_MEMENTO_TREATY_OF_JAFFA_1192_TOOLTIP" Language="es_ES">
 			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_TREATY_OF_JAFFA_1192_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_TREATY_OF_JAFFA_1192_EFFECT}</Text>
@@ -1464,7 +1464,7 @@
 			<Text>Las memorias de una reina.</Text>
 		</Replace>
 		<Replace Tag="LOC_MEMENTO_EENZAAM_MAAR_NIET_ALLEEN_EFFECT" Language="es_ES">
-			<Text>Los Centros de transmisión proporcionan +2 de Producción [ICON_Production] y otorgan +5 de Fuerza de Combate [ICON_Strength] a las unidades militares dentro de un radio de 2 casillas.</Text><!--agregar +3 de fuerza adicionales si se encuentran dentro de un distrito del imperio y reducir el de los centros de transmicion a +2 -->
+			<Text>Los Centros de transmisión proporcionan +2 de Producción [ICON_Production] y otorgan +5 de Fuerza de Combate [ICON_Strength] a las unidades militares dentro de un radio de 12 casillas.</Text><!--agregar +3 de fuerza adicionales si se encuentran dentro de un distrito del imperio y reducir el de los centros de transmicion a +2 -->
 		</Replace>
 		<Replace Tag="LOC_MEMENTO_EENZAAM_MAAR_NIET_ALLEEN_TOOLTIP" Language="es_ES">
 			<Text>{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_DESCRIPTION}{LOC_MEMENTO_EENZAAM_MAAR_NIET_ALLEEN_DESCRIPTION}[NEWLINE]{LOC_ML_MEMENTO_SPACE}[NEWLINE]{LOC_LEADER_ASSOCIATED_MEMENTO_EFFECT}{LOC_MEMENTO_EENZAAM_MAAR_NIET_ALLEEN_EFFECT}</Text>
