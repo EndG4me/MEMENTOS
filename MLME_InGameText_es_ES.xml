@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- MLME_InGameText_es_ES -->
+<!-- Author: xXiKillYouXx -->
+
+<GameData>
+	<LocalizedText>
+
+		<!--Pedia-->
+		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_GAMEMODE_ML_MEMENTOS_CHAPTER_CONTENT_TITLE" Language="es_ES">
+			<Text>Recuerdos</Text>
+		</Replace>
+		
+		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_GAMEMODE_ML_MEMENTOS_CHAPTER_WELCOME_TITLE" Language="es_ES">
+			<Text>Bienvenido</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_GAMEMODE_ML_MEMENTOS_CHAPTER_WELCOME_PARA_1" Language="es_ES">
+			<Text>{LOC_GAMEMODE_ML_MEMENTOS_OVERVIEW}</Text>
+		</Replace>
+		
+		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_GAMEMODE_ML_MEMENTOS_CHAPTER_LEADER_MEMENTOS_TITLE" Language="es_ES">
+			<Text>Líderes y Recuerdos</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_GAMEMODE_ML_MEMENTOS_CHAPTER_LEADER_MEMENTOS_PARA_1" Language="es_ES">
+			<Text>En este modo de juego, cada líder está asociado a un recuerdo especial, que se puede ver en la pantalla de selección de líderes al crear una partida o en el nuevo panel de la interfaz de usuario en la esquina superior izquierda durante el juego.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_GAMEMODE_ML_MEMENTOS_CHAPTER_LEADER_MEMENTOS_PARA_2" Language="es_ES">
+			<Text>Cada recuerdo tiene una descripción, efecto y contexto histórico únicos, que se pueden consultar en el panel "Recuerdos" o en la enciclopedia del juego. Los recuerdos están inspirados en historias famosas, logros destacados u otros eventos relacionados con el líder, y se han diseñado para ser lo más históricamente precisos posible. Los efectos de los recuerdos pueden complementar las habilidades del líder o de la civilización, o reflejar la historia del recuerdo en sí.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_GAMEMODE_ML_MEMENTOS_CHAPTER_LEADER_MEMENTOS_PARA_3" Language="es_ES">
+			<Text>Si eres creador de mods, también puedes utilizar este modo de juego como base para crear nuevos recuerdos para los líderes originales de Civilization VI o para líderes de mods.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_GAMEMODE_ML_MEMENTOS_CHAPTER_CHANGE_MEMENTOS_TITLE" Language="es_ES">
+			<Text>Cambiar Recuerdos</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_GAMEMODE_ML_MEMENTOS_CHAPTER_CHANGE_MEMENTOS_PARA_1" Language="es_ES">
+			<Text>{LOC_GAMEMODE_ML_MEMENTOS_DETAILS_3}</Text>
+		</Replace>
+
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGEGROUP_ML_MEMENTOS_NAME" Language="es_ES">
+			<Text>Recuerdos</Text>
+		</Replace>
+
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CHAPTER_DESC_TITLE" Language="es_ES">
+			<Text>Descripción</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CHAPTER_EFFECT_TITLE" Language="es_ES">
+			<Text>Bonificación</Text>
+		</Replace>
+		
+		<!--Unit Abilities-->
+		<Replace Tag="LOC_ABILITY_CAVALRY_FAITH_MLME_NAME" Language="es_ES">
+			<Text>{LOC_MEMENTO_TSAGAAN_SULDE_NAME}</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_CAVALRY_FAITH_MLME_DESCRIPTION" Language="es_ES">
+			<Text>+2 de Fe [ICON_Faith] por turno. ({LOC_MEMENTO_TSAGAAN_SULDE_NAME})</Text>
+		</Replace>
+
+		<Replace Tag="LOC_ABILITY_COMBAT_GREAT_WRITER_POINT_MLME_NAME" Language="es_ES">
+			<Text>{LOC_MEMENTO_WAX_COATED_WOODEN_TABLET_NAME}</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_COMBAT_GREAT_WRITER_POINT_MLME_DESCRIPTION" Language="es_ES">
+			<Text>Al eliminar unidades de cualquier civilización, obtienes puntos de Gran Escritor [ICON_GreatWriter] equivalentes al 25% de la Fuerza de Combate (a velocidad estándar). ({LOC_MEMENTO_WAX_COATED_WOODEN_TABLET_NAME})</Text>
+		</Replace>
+
+		<Replace Tag="LOC_ABILITY_STRENGTH_ENEMY_TERRITORY_MLME_NAME" Language="es_ES">
+			<Text>{LOC_MEMENTO_SAGA_OF_HARALD_HARDRADA_NAME}</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_STRENGTH_ENEMY_TERRITORY_MLME_DESCRIPTION" Language="es_ES">
+			<Text>+3 de Fuerza de Combate [ICON_Strength] en territorio enemigo. ({LOC_MEMENTO_SAGA_OF_HARALD_HARDRADA_NAME})</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_STRENGTH_ENEMY_TERRITORY_MLME_PREVIEW" Language="es_ES">
+			<Text>+{1_Amount} de Fuerza de Combate [ICON_Strength] por luchar en territorio enemigo. ({LOC_MEMENTO_SAGA_OF_HARALD_HARDRADA_NAME})</Text>
+		</Replace>
+
+		<Replace Tag="LOC_ABILITY_HOME_CONTINENT_STRENGTH_MLME_NAME" Language="es_ES">
+			<Text>{LOC_MEMENTO_LA_ARAUCANA_NAME}</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_HOME_CONTINENT_STRENGTH_MLME_DESCRIPTION" Language="es_ES">
+			<Text>+3 de Fuerza de Combate [ICON_Strength] en el continente de la capital. ({LOC_MEMENTO_LA_ARAUCANA_NAME})</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_HOME_CONTINENT_STRENGTH_MLME_PREVIEW" Language="es_ES">
+			<Text>+{1_Amount} de Fuerza de Combate [ICON_Strength] por estar en el continente de la capital. ({LOC_MEMENTO_LA_ARAUCANA_NAME})</Text>
+		</Replace>
+
+		<Replace Tag="LOC_BRAVE_HEART_OTHER_RELIGION_STRENGTH_PREVIEW" Language="es_ES">
+			<Text>+{1_Amount} de Fuerza de Combate [ICON_Strength] contra civilizaciones que siguen otras religiones. ({LOC_MEMENTO_BRAVE_HEART_NAME})</Text>
+		</Replace>
+
+		<Replace Tag="LOC_ABILITY_ANTI_CAVALRY_STRENGTH_MLME_NAME" Language="es_ES">
+			<Text>{LOC_MEMENTO_IKLWA_NAME}</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ANTI_CAVALRY_STRENGTH_MLME_DESCRIPTION" Language="es_ES">
+			<Text>Las unidades anticaballería obtienen +5 de Fuerza de Combate [ICON_Strength]. ({LOC_MEMENTO_IKLWA_NAME})</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ANTI_CAVALRY_STRENGTH_MLME_PREVIEW" Language="es_ES">
+			<Text>+{1_Amount} de Fuerza de Combate [ICON_Strength] por ser una unidad anticaballería. ({LOC_MEMENTO_IKLWA_NAME})</Text>
+		</Replace>
+
+		<Replace Tag="LOC_ABILITY_SETTLER_MOVEMENT_MLME_NAME" Language="es_ES">
+			<Text>{LOC_MEMENTO_TREATY_OF_ZARAGOZA_NAME}</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_SETTLER_MOVEMENT_MLME_DESCRIPTION" Language="es_ES">
+			<Text>+2 de movimiento [ICON_Movement] en agua. +2 de movimiento [ICON_Movement] adicional si está en un continente diferente al de la capital. ({LOC_MEMENTO_TREATY_OF_ZARAGOZA_NAME})</Text>
+		</Replace>
+
+		<Replace Tag="LOC_ABILITY_HOLY_SITE_STRENGTH_MLME_NAME" Language="es_ES">
+			<Text>{LOC_MEMENTO_TREATY_OF_JAFFA_1192_NAME}</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_HOLY_SITE_STRENGTH_MLME_DESCRIPTION" Language="es_ES">
+			<Text>+5 de Fuerza de Combate [ICON_Strength] si está dentro de un radio de 6 casillas de un Lugar Sagrado. ({LOC_MEMENTO_TREATY_OF_JAFFA_1192_NAME})</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_HOLY_SITE_STRENGTH_MLME_PREVIEW" Language="es_ES">
+			<Text>+{1_Amount} de Fuerza de Combate [ICON_Strength] por estar cerca de un Lugar Sagrado (6 casillas). ({LOC_MEMENTO_TREATY_OF_JAFFA_1192_NAME})</Text>
+		</Replace>
+
+		<Replace Tag="LOC_ABILITY_COMBAT_GREAT_GENERAL_POINT_MLME_NAME" Language="es_ES">
+			<Text>{LOC_MMEMENTO_BLOOD_BAG_NAME}</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_COMBAT_GREAT_GENERAL_POINT_MLME_DESCRIPTION" Language="es_ES">
+			<Text>Al eliminar unidades de civilizaciones principales o menores, obtienes puntos de Gran General [ICON_GREATGENERAL] equivalentes al 25% de la Fuerza de Combate [ICON_Strength] (a velocidad estándar). ({LOC_MEMENTO_BLOOD_BAG_NAME})</Text>
+		</Replace>
+
+		<Replace Tag="LOC_ABILITY_BROADCAST_CENTER_STRENGTH_MLME_NAME" Language="es_ES">
+			<Text>{LOC_MEMENTO_EENZAAM_MAAR_NIET_ALLEEN_NAME}</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_BROADCAST_CENTER_STRENGTH_MLME_DESCRIPTION" Language="es_ES">
+			<Text>+5 de Fuerza de Combate [ICON_Strength] si está dentro de un radio de 12 casillas de un Centro de Transmisión. ({LOC_MEMENTO_EENZAAM_MAAR_NIET_ALLEEN_NAME})</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_BROADCAST_CENTER_STRENGTH_MLME_PREVIEW" Language="es_ES">
+			<Text>+{1_Amount} de Fuerza de Combate [ICON_Strength] por estar cerca de un Centro de Transmisión (12 casillas). ({LOC_MEMENTO_EENZAAM_MAAR_NIET_ALLEEN_NAME})</Text>
+		</Replace>
+
+		<Replace Tag="LOC_ABILITY_TREE_STRENGTH_MLME_NAME" Language="es_ES">
+			<Text>{LOC_MEMENTO_THE_WILDERNESS_HUNTER_NAME}</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_TREE_STRENGTH_MLME_DESCRIPTION" Language="es_ES">
+			<Text>+5 de Fuerza de Combate [ICON_Strength] en bosques, selvas o sabanas. ({LOC_MEMENTO_THE_WILDERNESS_HUNTER_NAME})</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_TREE_STRENGTH_MLME_PREVIEW" Language="es_ES">
+			<Text>+{1_Amount} de Fuerza de Combate [ICON_Strength] por estar en un bosque, selva o sabana. ({LOC_MEMENTO_THE_WILDERNESS_HUNTER_NAME})</Text>
+		</Replace>
+
+		<Replace Tag="LOC_ABILITY_GREAT_GENERAL_STRENGTH_AOE_MLME_NAME" Language="es_ES">
+			<Text>{LOC_MEMENTO_LION_HELMET_NAME}</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GREAT_GENERAL_STRENGTH_AOE_MLME_DESCRIPTION" Language="es_ES">
+			<Text>+3 de Fuerza de Combate [ICON_Strength] para unidades militares terrestres en un radio de 2 casillas. ({LOC_MEMENTO_LION_HELMET_NAME})</Text>
+		</Replace>
+		
+		<Replace Tag="LOC_ABILITY_GREAT_GENERAL_STRENGTH_MLME_NAME" Language="es_ES">
+			<Text>{LOC_MEMENTO_LION_HELMET_NAME}</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GREAT_GENERAL_STRENGTH_MLME_DESCRIPTION" Language="es_ES">
+			<Text>+3 de Fuerza de Combate [ICON_Strength] adicional si hay un Gran General en un radio de 2 casillas. ({LOC_MEMENTO_LION_HELMET_NAME})</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_GREAT_GENERAL_STRENGTH_MLME_PREVIEW" Language="es_ES">
+			<Text>+{1_Amount} de Fuerza de Combate [ICON_Strength] por tener un Gran General cerca (2 casillas). ({LOC_MEMENTO_LION_HELMET_NAME})</Text>
+		</Replace>
+
+		<Replace Tag="LOC_ABILITY_NAVAL_STRENGTH_MLME_NAME" Language="es_ES">
+			<Text>{LOC_MEMENTO_TILBURY_SPEECH_NAME}</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NAVAL_STRENGTH_MLME_DESCRIPTION" Language="es_ES">
+			<Text>+3 de Fuerza de Combate [ICON_Strength]. ({LOC_MEMENTO_TILBURY_SPEECH_NAME})</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NAVAL_STRENGTH_MLME_PREVIEW" Language="es_ES">
+			<Text>+{1_Amount} de Fuerza de Combate [ICON_Strength] por {LOC_MEMENTO_TILBURY_SPEECH_NAME}</Text>
+		</Replace>
+
+		<Replace Tag="LOC_ABILITY_OWNER_TERRITORY_STRENGTH_MLME_NAME" Language="es_ES">
+			<Text>{LOC_MEMENTO_COMPLETE_ANNALS_OF_DAI_VIET_NAME}</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_OWNER_TERRITORY_STRENGTH_MLME_DESCRIPTION" Language="es_ES">
+			<Text>+3 de Fuerza de Combate [ICON_Strength] en tu territorio. ({LOC_MEMENTO_COMPLETE_ANNALS_OF_DAI_VIET_NAME})</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_OWNER_TERRITORY_STRENGTH_MLME_PREVIEW" Language="es_ES">
+			<Text>+{1_Amount} de Fuerza de Combate [ICON_Strength] por luchar en tu territorio. ({LOC_MEMENTO_COMPLETE_ANNALS_OF_DAI_VIET_NAME})</Text>
+		</Replace>
+
+		<!--Resources-->
+		<Replace Tag="LOC_RESOURCE_PEONY_MLME_NAME" Language="es_ES">
+			<Text>Peonía</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_PEONY_MLME_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>La peonía, conocida como la "reina de las flores", es una de las flores tradicionales más famosas de China, símbolo de riqueza, buena fortuna y prosperidad. Sus flores son grandes y coloridas, con una amplia gama de tonalidades que incluyen rojo, rosa, blanco, amarillo y púrpura. Los pétalos son gruesos y exuberantes, lo que les da un aspecto majestuoso y de gran valor ornamental. Originaria de China, la peonía tiene una historia de cultivo de miles de años y ha sido muy apreciada por poetas, artistas y artesanos, apareciendo con frecuencia en poesía, pintura y artesanías. Durante la dinastía Tang, la peonía fue considerada la flor nacional, y ciudades como Luoyang y Heze siguen siendo famosas por sus peonías. Además de su valor ornamental, la corteza de la raíz de la peonía (conocida como "danpi") se utiliza en medicina tradicional por sus propiedades para reducir el calor, enfriar la sangre y promover la circulación. Con su belleza única, la peonía se ha convertido en uno de los símbolos más importantes de la cultura china.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_PEONY_MLME_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>{LOC_PEDIA_CIVILIZATIONS_PAGE_MEMENTO_PEONY_SEONDEOK_CHAPTER_HISTORY_PARA_1}</Text>
+		</Replace>
+
+		<Replace Tag="LOC_RESOURCE_TURQUOISE_MLME_NAME" Language="es_ES">
+			<Text>Turquesa</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_TURQUOISE_MLME_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>La turquesa, también conocida como "piedra turca" (debido a que llegó a Europa a través de Turquía), es una gema semitransparente a opaca con una historia milenaria, famosa por su distintivo tono azul verdoso, que varía desde azul cielo hasta verde manzana, dependiendo de su contenido de cobre, hierro y otros elementos. Como una de las gemas más antiguas del mundo, la turquesa ha sido considerada un amuleto sagrado y un símbolo de poder en culturas como la del Antiguo Egipto, Persia, los nativos americanos y el budismo tibetano en China. Se ha utilizado en joyería, objetos religiosos y arte decorativo. Las principales zonas de producción en China incluyen Hubei y Anhui. También se encuentra en Irán (Neyshabur), el Sinaí en Egipto, el suroeste de Estados Unidos, Chile y Australia. Además de su valor decorativo, se cree que la turquesa trae paz y buena suerte, y es una de las piedras natales de diciembre.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_TURQUOISE_MLME_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>Los aztecas consideraban la turquesa como la encarnación del fuego y le atribuían propiedades como el calor y el humo. Combinaban la turquesa con oro, cuarzo, malaquita, azabache, jade, coral y conchas en obras de arte incrustadas para uso ceremonial, como máscaras, cuchillos y escudos. Utilizaban resina natural, betún y cera para fijar la turquesa a una base, generalmente de madera, aunque también usaban hueso y conchas. La obra de arte azteca más famosa con incrustaciones de turquesa es probablemente la serpiente bicéfala que se conserva en el Museo Británico. Al igual que los aztecas, tribus indígenas como los pueblo, navajo y apache también valoraban la turquesa.</Text>
+		</Replace>
+
+		<!--Adjacency-->
+		<Replace Tag="LOC_DISTRICT_FARM_1_FAITH_MLME" Language="es_ES">
+			<Text>+{1_num} de Fe [ICON_Faith] por Granjas adyacentes ({LOC_MEMENTO_MOSAIC_OF_THEODORA_NAME}).</Text>
+		</Replace>
+		<Replace Tag="LOC_DISTRICT_PASTURE_1_CULTURE_MLME" Language="es_ES">
+			<Text>+{1_num} de [ICON_Culture] cultura por Pastos adyacentes ({LOC_MEMENTO_ROYAL_SLEIGH_NAME}).</Text>
+		</Replace>
+		
+
+		<!--UI-->
+		<Replace Tag="LOC_UI_ML_MEMENTOS_VIEWER_LAUNCH_BUTTON" Language="es_ES">
+			<Text>Panel de Recuerdos[NEWLINE][NEWLINE]¡Revisa tus recuerdos!</Text>
+		</Replace>
+		<Replace Tag="LOC_UI_ML_MEMENTOS_VIEWER_PANEL_TITLE" Language="es_ES">
+			<Text>Recuerdos</Text>
+		</Replace>
+		
+		<!--Tabs-->
+		<Replace Tag="LOC_ML_MEMENTOS_VIEWER_TAB_BUTTON_MY_MEMENTOS" Language="es_ES">
+			<Text>Mis Recuerdos</Text>
+		</Replace>
+		<Replace Tag="LOC_ML_MEMENTOS_VIEWER_TAB_BUTTON_WORLD_TRACKER" Language="es_ES">
+			<Text>Seguimiento Mundial</Text>
+		</Replace>
+		<Replace Tag="LOC_ML_MEMENTOS_VIEWER_TAB_BUTTON_MEMENTOS_LIST" Language="es_ES">
+			<Text>Lista de Recuerdos</Text>
+		</Replace>
+		
+		<!--Tab1-->
+		<Replace Tag="LOC_UI_ML_MEMENTOS_VIEWER_TAB_1_MEMENTOS_LIST_TITLE" Language="es_ES">
+			<Text>Lista de Recuerdos</Text>
+		</Replace>
+		<Replace Tag="LOC_UI_ML_MEMENTOS_VIEWER_TAB_1_SELECTED_MEMENTOS_LIST_TITLE" Language="es_ES">
+			<Text>Recuerdos seleccionados</Text>
+		</Replace>
+		<Replace Tag="LOC_UI_ML_MEMENTOS_VIEWER_TAB_1_SELECT_AND_CHANGE_MEMENTOS" Language="es_ES">
+			<Text>¡Selecciona y cambia tus recuerdos!</Text>
+		</Replace>
+
+		<Replace Tag="LOC_UI_ML_MEMENTOS_VIEWER_TAB_1_CONFIRM_CHANGE" Language="es_ES">
+			<Text>Confirmar cambio de Recuerdos</Text>
+		</Replace>
+		<Replace Tag="LOC_UI_ML_MEMENTOS_VIEWER_TAB_1_CANCEL" Language="es_ES">
+			<Text>Cancelar</Text>
+		</Replace>
+
+		<Replace Tag="LOC_UI_ML_MEMENTOS_VIEWER_TAB_1_TIPS" Language="es_ES">
+			<Text>Información útil</Text>
+		</Replace>
+
+		<Replace Tag="LOC_UI_ML_MEMENTOS_VIEWER_TAB_1_TIPS_SLOT_NUM_MEMENTO" Language="es_ES">
+			<Text>[ICON_Bullet]Espacios de recuerdos actuales: {1_Slot}, recuerdos seleccionados: {2_Memento}.</Text>
+		</Replace>
+		<Replace Tag="LOC_UI_ML_MEMENTOS_VIEWER_TAB_1_TIPS_CAN_CHANGE_MEMENTO" Language="es_ES">
+			<Text>[ICON_Bullet]Veces que puedes cambiar de recuerdos: {1_Num}.[NEWLINE][ICON_Bullet]Haz clic en un recuerdo a la izquierda para seleccionarlo, o a la derecha para eliminarlo.</Text>
+		</Replace>
+		<Replace Tag="LOC_UI_ML_MEMENTOS_VIEWER_TAB_1_TIPS_CANNOT_CHANGE_MEMENTO" Language="es_ES">
+			<Text>[ICON_Bullet][COLOR_Civ6Red]¡No te quedan cambios de recuerdos![ENDCOLOR][NEWLINE][ICON_Bullet]Ganas +1 cambio de recuerdos al entrar en una nueva era.</Text>
+		</Replace>
+
+		<!--Tab2-->
+		<Replace Tag="LOC_UI_ML_MEMENTOS_VIEWER_TAB_2_PLAYER_LIST_TITLE" Language="es_ES">
+			<Text>Lista de jugadores</Text>
+		</Replace>
+		<Replace Tag="LOC_UI_ML_MEMENTOS_VIEWER_TAB_2_NO_MEMENTOS" Language="es_ES">
+			<Text>Sin recuerdos</Text>
+		</Replace>
+		
+		<!--Tab3-->
+		<Replace Tag="LOC_UI_ML_MEMENTOS_VIEWER_TAB_3_TIPS" Language="es_ES">
+			<Text>Consejo: selecciona un recuerdo a la izquierda para ver detalles</Text>
+		</Replace>
+		<Replace Tag="LOC_UI_ML_MEMENTOS_VIEWER_TAB_3_MEMENTO_NAME" Language="es_ES">
+			<Text>Nombre del recuerdo</Text>
+		</Replace>
+		<Replace Tag="LOC_UI_ML_MEMENTOS_VIEWER_TAB_3_MEMENTO_LEADER" Language="es_ES">
+			<Text>Líder asociado</Text>
+		</Replace>
+		<Replace Tag="LOC_UI_ML_MEMENTOS_VIEWER_TAB_3_MEMENTO_ASSOCIATED_LEADER" Language="es_ES">
+			<Text>Líder asociado:</Text>
+		</Replace>
+		<Replace Tag="LOC_UI_ML_MEMENTOS_VIEWER_TAB_3_MEMENTO_ASSOCIATED_LEADER_NONE" Language="es_ES">
+			<Text>Ninguno</Text>
+		</Replace>
+		<Replace Tag="LOC_UI_ML_MEMENTOS_VIEWER_TAB_3_MEMENTO_EFFECT" Language="es_ES">
+			<Text>Efecto</Text>
+		</Replace>
+		<Replace Tag="LOC_UI_ML_MEMENTOS_VIEWER_TAB_3_MEMENTO_BRIEF_INTRO" Language="es_ES">
+			<Text>Descripción:</Text>
+		</Replace>
+		<Replace Tag="LOC_UI_ML_MEMENTOS_VIEWER_TAB_3_MEMENTO_HISTORICAL_BACKGROUND" Language="es_ES">
+			<Text>Contexto histórico:</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
