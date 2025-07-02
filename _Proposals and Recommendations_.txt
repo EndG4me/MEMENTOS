@@ -37,7 +37,7 @@ MEMENTO_CODE_OF_HAMMURABI:
 
 +50% Production for Government Plaza; +30% Construction Speed for its buildings.
 
-Palace gains +1 Food, +1 Gold, +1 Culture (optionally +1 Production).
+Palace gains +1 Food, +1 Gold, +1 Culture.
 
 "Historically, this legal code established governmental stability and improved transactions by ensuring security."
 
@@ -58,7 +58,7 @@ Trade Routes with more advanced civilizations grant +1 Production, +1 Gold, and 
 
 MEMENTO_ARTHASHASTRA:
 
-Palace and Government Plaza buildings provide +1 Production, +1 Gold, and +1 Food to all cities.
+Palace and Government Plaza provide +1 Production, +1 Gold, and +1 Food additional. The captured cities gain +5 Loyalty.
 
 "This ancient manual maximized state benefits and imperial survival."
 
@@ -96,7 +96,8 @@ _________________
 
 MEMENTO_TEMPLE_RELIEFS_OF_MEROE:
 
-Holy Site districts grant +1 Influence per turn (+1 extra if adjacent to a Nubian Pyramid) after researching "Divine Right." (Previously strong early-game.)
+Holy Site districts grant +1 Influence per turn, +1 additional if have Worship building
+The player gain +1 additional of Influence after researching "Divine Right" (Previously strong early-game.)
 
 
 MEMENTO_JULIAN_CALENDAR:
@@ -131,7 +132,7 @@ Cities gain +1 Amenities and +2 Loyalty per religion present (with at least 1 fo
 
 MEMENTO_FOOTPRINT_STONE:
 
-Cities gain +1% Faith per Population (max 15% Faith). (Previously OP late-game.)
+Cities gain +1% Faith per Population (max 10% Faith). (Previously OP late-game.)
 
 
 MEMENTO_OTTOMAN_LAWS:
@@ -146,9 +147,11 @@ ____________________
 
 MEMENTO_MASCAPAYCHA:
 
-Add +1 Great Engineer Point when founding a city on Grassland Hills, Plains Hills, or Desert Hills.
+Districts adjacent to Mountains receive +2 [ICON_Gold] Gold and +1 [ICON_Food] Production adjacency bonuses.
+Add +1 Great Engineer Point when founding a city and +1 when you build a acueduct/terms on Grassland Hills, Plains Hills, or Desert Hills or when you build.
 
-"As a Peruvian, I want to highlight Inca ingenuity in adapting to Andean geography (mountains)."
+"I'm from Perú, I want to highlight Inca ingenuity in adapting to Andean geography (mountains)."
+
 __________________________
 
 POLICY CARDS (MY PROPOSAL)
